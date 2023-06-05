@@ -1,0 +1,17 @@
+Word: οσα
+
+Etymology: οσα is a Greek word that comes from the combination of the words "ος" (which means "who" or "what") and "α" (which is a particle that indicates a relative clause). Therefore, οσα means "whatever" or "all that".
+
+Grammar: οσα is a pronoun in Greek that is used to introduce a relative clause. It is in the neuter gender, and it can be used as a subject or an object in a sentence. It is declined as follows:
+
+Singular:
+- Nominative: οσο
+- Genitive: οσου
+- Accusative: οσο
+
+Plural:
+- Nominative: οσα
+- Genitive: οσων
+- Accusative: οσα
+
+Description: οσα is a versatile pronoun that can be used in various contexts to introduce a relative clause. It is often used to express a general idea or a group of things without specifying them. For example, "Οσα είπες ήταν σωστά" (Whatever you said was correct) or "Οσα βλέπω μου αρέσουν" (I like everything I see).
