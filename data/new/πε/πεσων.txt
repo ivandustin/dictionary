@@ -1,0 +1,22 @@
+Word: πεσων
+
+Etymology:
+The word πεσων (peson) is a Greek word that comes from the verb πίπτω (pipto), which means "to fall." It is the aorist participle of the verb, which means it describes an action that has already happened in the past.
+
+Grammar:
+πεσων is a masculine singular nominative participle in Greek. It is declined as follows:
+
+Singular:
+Nominative: πεσων
+Genitive: πεσοντος (pesontos)
+Dative: πεσοντι (pesonti)
+Accusative: πεσοντα (pesonta)
+
+Plural:
+Nominative: πεσοντες (pesontes)
+Genitive: πεσοντων (pesonton)
+Dative: πεσουσι(ν) (pesousin)
+Accusative: πεσοντας (pesontas)
+
+Description:
+πεσων is a participle that describes someone or something that has fallen. It can be used as an adjective to describe a fallen object or person, or it can be used as a noun to refer to someone who has fallen. In Greek mythology, the hero Icarus is often described as πεσων, as he fell from the sky when his wings melted.

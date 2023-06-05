@@ -1,0 +1,22 @@
+Word: σημειον
+
+Etymology:
+The word σημειον (sēmeion) comes from the Greek root word σημαίνω (sēmainō), which means "to signify" or "to indicate". It is derived from the noun σῆμα (sēma), which means "sign" or "mark".
+
+Grammar:
+σημειον is a neuter noun in Greek. It is declined as follows:
+
+Singular:
+Nominative: τὸ σημεῖον (to sēmeion) - the sign
+Genitive: τοῦ σημείου (tou sēmeiou) - of the sign
+Dative: τῷ σημείῳ (tō sēmeiō) - to/for the sign
+Accusative: τὸ σημεῖον (to sēmeion) - the sign
+
+Plural:
+Nominative: τὰ σημεῖα (ta sēmeia) - the signs
+Genitive: τῶν σημείων (tōn sēmeiōn) - of the signs
+Dative: τοῖς σημείοις (tois sēmeiois) - to/for the signs
+Accusative: τὰ σημεῖα (ta sēmeia) - the signs
+
+Description:
+σημειον can refer to a sign, mark, or signal that indicates or represents something. It can also refer to a miracle or wonder that serves as a sign of divine power or intervention. In the New Testament, σημειον is often used to describe the miracles performed by Jesus and his disciples. Additionally, σημειον can refer to a symbol or emblem that represents a particular group or idea.

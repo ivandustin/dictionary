@@ -1,0 +1,21 @@
+Word: ποιησων
+
+Etymology: ποιησων is the present active participle of the Greek verb ποιέω (poiéō), which means "to make" or "to create". The word comes from the Proto-Indo-European root *kʷey- which means "to make" or "to build".
+
+Grammar: ποιησων is a masculine singular nominative present active participle in Greek. It is declined as follows:
+
+Singular:
+Nominative: ποιησων
+Genitive: ποιησοντος
+Dative: ποιησοντι
+Accusative: ποιησοντα
+Vocative: ποιησων
+
+Plural:
+Nominative: ποιησοντες
+Genitive: ποιησοντων
+Dative: ποιησουσι(ν)
+Accusative: ποιησοντας
+Vocative: ποιησοντες
+
+Description: ποιησων is a word that describes someone who is currently making or creating something. It can be used to describe a person who is actively engaged in the act of making or creating, or it can be used as an adjective to describe something that is currently being made or created. In Greek literature, it is often used to describe the actions of gods or heroes who are creating something new.

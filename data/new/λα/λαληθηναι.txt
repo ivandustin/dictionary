@@ -1,0 +1,7 @@
+Word: λαληθηναι
+
+Etymology: λαληθηναι is a Greek verb that comes from the root word λαλέω (laleo), which means "to speak" or "to talk". The suffix -θηναι (-thenai) is a passive form that means "to be spoken".
+
+Grammar: λαληθηναι is a passive infinitive verb in Greek. It is formed by adding the suffix -θηναι to the present tense stem of the verb λαλέω. The passive voice indicates that the subject of the sentence is being acted upon, rather than performing the action.
+
+Description: λαληθηναι means "to be spoken" or "to be said" in Greek. It is often used in the passive voice to indicate that something has been spoken or said by someone else. For example, "The truth will be spoken" could be translated as "ἡ ἀλήθεια λαληθήσεται" (he aletheia lalethesetai) in Greek.

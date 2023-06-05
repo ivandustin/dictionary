@@ -1,0 +1,22 @@
+Word: λεπρα
+
+Etymology:
+The word λεπρα (lepra) comes from the Greek word λέπω (lépō), which means "to peel off" or "to scale". It is related to the word λεπίς (lepís), which means "scale" or "flake".
+
+Grammar:
+λεπρα is a feminine noun in Greek. It is in the nominative singular form. The word is declined as follows:
+
+Singular:
+Nominative: λεπρα
+Genitive: λεπρας
+Accusative: λεπραν
+Vocative: λεπρα
+
+Plural:
+Nominative: λεπρες
+Genitive: λεπρων
+Accusative: λεπρες
+Vocative: λεπρες
+
+Description:
+λεπρα is a Greek word that means "leprosy". Leprosy is a chronic infectious disease that affects the skin, mucous membranes, and nerves. It is caused by the bacterium Mycobacterium leprae. The disease is characterized by the formation of skin lesions, nerve damage, and deformities. In ancient times, leprosy was considered a highly contagious and incurable disease, and those who were afflicted with it were often ostracized from society. Today, leprosy is treatable with antibiotics, and the disease is no longer considered a major public health threat.

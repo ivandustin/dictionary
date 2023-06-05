@@ -1,0 +1,17 @@
+Word: πεποιθεν
+
+Etymology:
+The word πεποιθεν is a Greek verb that comes from the root word πείθω (peitho), which means "to persuade" or "to convince." The prefix πεπο- (pepo-) is a perfect tense form of the verb, indicating that the action of persuasion has already been completed.
+
+Grammar:
+πεποιθεν is a third-person singular perfect indicative active verb in Greek. It is formed by adding the perfect tense suffix -κα (ka) to the stem πεποιθε- (pepoithe-), which is derived from the verb πείθω (peitho). The verb is conjugated as follows:
+
+Present: πείθει (peithe)
+Imperfect: ἐπείθετο (epeitheto)
+Future: πείσει (peisei)
+Aorist: ἔπεισεν (epeisen)
+Perfect: πεποίθει (pepoithe)
+Pluperfect: πεπείσμην (pepeismen)
+
+Description:
+πεποιθεν is a verb that means "he/she/it has trusted" or "he/she/it has confidence in." It is often used in the New Testament of the Bible to describe the trust that believers have in God. The word conveys a sense of firm conviction and reliance on someone or something.

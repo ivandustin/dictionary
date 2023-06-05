@@ -1,0 +1,7 @@
+Word: διαβεβαιουνται
+
+Etymology: διαβεβαιουνται is a Greek word that comes from the verb διαβεβαιόομαι (diabebaioomai), which means "to assure, to confirm, to guarantee". It is derived from the prefix δια- (dia-), which means "through" or "across", and the verb βεβαιόω (bebaioo), which means "to make firm, to establish, to confirm".
+
+Grammar: διαβεβαιουνται is a third-person plural present passive indicative form of the verb διαβεβαιόομαι (diabebaioomai). In Greek, verbs have different forms depending on the person, number, tense, mood, and voice. The present tense indicates that the action is happening now, the passive voice indicates that the subject is receiving the action, and the indicative mood indicates that the speaker is making a statement or asking a question.
+
+Description: διαβεβαιουνται means "they are being assured/confirmed/guaranteed" in English. It is a verb that is often used in legal or formal contexts to express certainty or confidence in a statement or agreement. For example, "Οι συμβαλλόμενοι διαβεβαιώνουνται ότι θα τηρήσουν τις συμφωνίες τους" (The parties assure/confirm/guarantee that they will abide by their agreements).

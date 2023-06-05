@@ -1,0 +1,7 @@
+Word: κατακαυθησεται
+
+Etymology: κατα- (kata-, prefix meaning "down" or "against") + καυθήσεται (kauthēsetai, future passive indicative of καίω, kaio, meaning "to burn"). Therefore, κατακαυθησεται means "it will be burned down" or "it will be consumed by fire".
+
+Grammar: κατακαυθησεται is a third-person singular future passive indicative verb in Greek. It is formed by adding the future tense marker -σ- to the stem καυθη-, which is derived from the verb καίω (kaio, "to burn"). The prefix κατα- (kata-, "down" or "against") indicates that the action of burning will be directed towards the subject of the sentence.
+
+Description: κατακαυθησεται is a Greek verb that describes the action of something being burned down or consumed by fire. It is often used in a metaphorical sense to describe the destruction or annihilation of something, such as a city, a building, or a person's reputation. In the New Testament, it is used to describe the fate of the wicked in the afterlife (e.g. Matthew 13:40-42).

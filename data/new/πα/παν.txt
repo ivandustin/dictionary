@@ -1,0 +1,22 @@
+Word: παν
+
+Etymology:
+The word παν (pan) is a Greek word that means "all" or "everything". It is derived from the Proto-Indo-European root *pant- which means "all".
+
+Grammar:
+In Greek, παν is a neuter noun. It is declined as follows:
+
+Singular:
+Nominative: το παν (to pan)
+Genitive: του παντος (tou pantos)
+Accusative: το παν (to pan)
+Vocative: ω παν (o pan)
+
+Plural:
+Nominative: τα παντα (ta panta)
+Genitive: των παντων (ton panton)
+Accusative: τα παντα (ta panta)
+Vocative: ω παντα (o panta)
+
+Description:
+The word παν is used in Greek to refer to everything or all things. It can be used in a literal sense, such as "παντα τα βιβλια" (all the books), or in a figurative sense, such as "παντα ειναι δυνατα" (everything is possible). It is a versatile word that can be used in a variety of contexts.

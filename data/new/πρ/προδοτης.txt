@@ -1,0 +1,21 @@
+Word: προδότης
+
+Etymology: The word προδότης (prodótis) comes from the Greek verb προδίδωμι (prodídōmi), which means "to betray" or "to deliver up". The suffix -της (-tis) is a common suffix in Greek that denotes the agent or doer of an action, so προδότης literally means "one who betrays" or "one who delivers up".
+
+Grammar: In Greek, προδότης is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: προδότης (prodótis) - "betrayor"
+- Genitive: προδότου (prodótou) - "of a betrayor"
+- Dative: προδότῃ (prodótē) - "to a betrayor"
+- Accusative: προδότην (prodótin) - "betrayor"
+- Vocative: προδότα (prodóta) - "betrayor"
+
+Plural:
+- Nominative: προδόται (prodóte) - "betrayors"
+- Genitive: προδοτῶν (prodotōn) - "of betrayors"
+- Dative: προδόταις (prodótais) - "to betrayors"
+- Accusative: προδότας (prodótas) - "betrayors"
+- Vocative: προδόται (prodóte) - "betrayors"
+
+Description: προδότης is a word that carries a strong negative connotation in Greek. It refers to someone who betrays the trust of others, usually for personal gain or advantage. The word can be used to describe someone who betrays a friend, a family member, a business partner, or even a country. In Greek history and literature, there are many examples of famous traitors who are remembered with disdain and contempt, such as Ephialtes, who betrayed the Greeks at the Battle of Thermopylae, or Judas Iscariot, who betrayed Jesus Christ.

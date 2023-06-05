@@ -1,0 +1,24 @@
+Word: ακουων
+
+Etymology:
+The word ακουων (akouon) is the present participle of the Greek verb ακούω (akouo), which means "to hear" or "to listen". The verb comes from the Proto-Indo-European root *h₂ḱous-.
+
+Grammar:
+ακουων is a masculine singular nominative present participle in Greek. It is declined as follows:
+
+Singular:
+Nominative: ακουων
+Genitive: ακουοντος (akountos)
+Dative: ακουοντι (akounti)
+Accusative: ακουοντα (akounta)
+Vocative: ακουων
+
+Plural:
+Nominative: ακουοντες (akountes)
+Genitive: ακουοντων (akounton)
+Dative: ακουουσι(ν) (akouousin)
+Accusative: ακουοντας (akountas)
+Vocative: ακουοντες
+
+Description:
+ακουων is a word that describes someone who is currently hearing or listening. It can be used as an adjective to describe a person who is actively listening to something, or as a noun to refer to someone who is a good listener. In Greek literature, the word is often used to describe characters who are attentive and perceptive.

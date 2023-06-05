@@ -1,0 +1,24 @@
+Word: μισθον
+
+Etymology:
+The word μισθον (misthon) is derived from the Greek verb μισθοω (misthoō), which means "to pay wages" or "to hire for wages". It is related to the noun μισθος (misthos), which means "wages" or "payment".
+
+Grammar:
+μισθον is a noun in the singular form. It is a masculine noun in the second declension, and its nominative form is μισθος (misthos). In Greek, nouns decline according to their gender, number, and case. The declension of μισθον is as follows:
+
+Singular:
+Nominative: μισθος (misthos)
+Genitive: μισθου (misthou)
+Dative: μισθω (misthō)
+Accusative: μισθον (misthon)
+Vocative: μισθε (misthe)
+
+Plural:
+Nominative: μισθοι (misthoi)
+Genitive: μισθων (misthōn)
+Dative: μισθοις (misthois)
+Accusative: μισθους (misthous)
+Vocative: μισθοι (misthoi)
+
+Description:
+μισθον refers to wages or payment for work done. It can also refer to a reward or recompense for services rendered. In ancient Greece, μισθον was often used to refer to the payment received by soldiers for their service in battle. Today, the word is still used in modern Greek to refer to wages or salary.

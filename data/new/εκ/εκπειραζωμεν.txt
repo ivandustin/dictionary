@@ -1,0 +1,14 @@
+Word: εκπειραζωμεν
+
+Etymology: The word εκπειραζωμεν comes from the Greek verb εκπειραζω (ekpeirazo), which means "to test" or "to try". The suffix -μεν (-men) is added to the end of the verb to indicate that it is in the present tense and that the subject is "we".
+
+Grammar: εκπειραζωμεν is a first-person plural present active indicative verb in Greek. It is formed by adding the present tense suffix -μεν to the stem εκπειραζω. The verb is conjugated as follows:
+
+εκπειραζωμεν (ekpeirazomen) - we test/try
+εκπειραζεις (ekpeirazeis) - you test/try
+εκπειραζει (ekpeirazei) - he/she/it tests/tries
+εκπειραζομεν (ekpeirazomen) - we test/try
+εκπειραζετε (ekpeirazete) - you test/try
+εκπειραζουσι(ν) (ekpeirazousi(n)) - they test/try
+
+Description: εκπειραζωμεν is a Greek verb that means "we test" or "we try". It is used to describe the act of attempting or experimenting with something in order to determine its effectiveness or suitability. The verb can be used in a variety of contexts, such as in science experiments, product testing, or personal challenges.

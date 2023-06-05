@@ -1,0 +1,10 @@
+Word: γνωστός
+
+Etymology:
+The word γνωστός (gnostos) comes from the Greek verb γιγνώσκω (gignosko), which means "to know". The suffix -τός (-tos) is added to the verb stem to form an adjective, which means "known" or "famous".
+
+Grammar:
+γνωστός is a masculine singular adjective in the nominative case. It can also be declined in other cases and genders to agree with the noun it modifies.
+
+Description:
+γνωστός is an adjective that describes something or someone that is known or famous. It can be used to describe a person, a place, an event, or an object. For example, in the sentence "Ο Σωκράτης ήταν γνωστός φιλόσοφος" (O Sokratis itan gnostos filosofos), γνωστός describes Sokratis as a famous philosopher.

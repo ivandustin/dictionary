@@ -1,0 +1,16 @@
+Word: μετρον
+
+Etymology:
+μετρον (metron) is a Greek word that means "measure" or "measurement". It is derived from the Greek verb μετρεω (metreo), which means "to measure".
+
+Grammar:
+μετρον is a neuter noun in Greek. In its singular form, it is declined as follows:
+
+Nominative: το μετρον (to metron)
+Genitive: του μετρου (tou metrou)
+Accusative: το μετρον (to metron)
+Vocative: μετρον (metron)
+Dative: τω μετρω (to metro)
+
+Description:
+μετρον is a term used to refer to a unit of measurement or a measuring instrument. In ancient Greece, it was used to measure length, weight, and volume. It was also used in music to refer to a rhythmic pattern or a measure of time. Today, the word μετρον is still used in modern Greek to refer to a measuring instrument, such as a ruler or a tape measure.

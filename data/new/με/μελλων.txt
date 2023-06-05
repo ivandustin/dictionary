@@ -1,0 +1,24 @@
+Word: μελλων
+
+Etymology:
+The word μελλων (mellon) is the present participle of the Greek verb μελλω (mellō), which means "to be about to" or "to intend to". It is derived from the Proto-Indo-European root *mel-, which means "to strive for" or "to be eager".
+
+Grammar:
+μελλων is a masculine singular nominative present participle in Greek. It is declined as follows:
+
+Singular:
+Nominative: μελλων
+Genitive: μελλοντος
+Dative: μελλοντι
+Accusative: μελλοντα
+Vocative: μελλων
+
+Plural:
+Nominative: μελλοντες
+Genitive: μελλοντων
+Dative: μελλουσι(ν)
+Accusative: μελλοντας
+Vocative: μελλοντες
+
+Description:
+μελλων is a Greek word that is often used to describe something that is about to happen or is intended to happen. It can also be used to describe someone who is in the process of doing something or is about to do something. The word has a sense of urgency and anticipation, and is often used in contexts where there is a sense of impending action or change.

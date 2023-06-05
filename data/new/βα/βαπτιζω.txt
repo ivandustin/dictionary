@@ -1,0 +1,14 @@
+Word: βαπτίζω (baptizo)
+
+Etymology: The word βαπτίζω comes from the Greek word βάπτω (bapto), which means "to dip" or "to immerse". The suffix -ίζω (-izo) is added to the end of the word to indicate the action of performing the verb.
+
+Grammar: βαπτίζω is a Greek verb in the present tense, active voice, and indicative mood. It is conjugated as follows:
+
+- Singular: βαπτίζω (baptizo) - I baptize
+- Plural: βαπτίζομεν (baptizomen) - we baptize
+- Singular: βαπτίζεις (baptizeis) - you baptize
+- Plural: βαπτίζετε (baptizete) - you all baptize
+- Singular: βαπτίζει (baptizei) - he/she/it baptizes
+- Plural: βαπτίζουσι(ν) (baptizousi(n)) - they baptize
+
+Description: βαπτίζω is a Greek verb that means "to baptize" or "to immerse in water". It is commonly used in the context of Christian baptism, where a person is fully immersed in water as a symbol of their faith and commitment to God. The word can also be used more broadly to refer to any kind of immersion or submersion in water.

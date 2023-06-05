@@ -1,0 +1,24 @@
+Word: ολιγας
+
+Etymology:
+The word ολιγας (oligas) is derived from the Greek word "ολίγος" (oligos), which means "few" or "little". It is a masculine noun in the nominative singular form.
+
+Grammar:
+In Greek, ολιγας is a third-declension noun. It is declined as follows:
+
+Singular:
+Nominative: ολιγας
+Genitive: ολιγα
+Dative: ολιγα
+Accusative: ολιγα
+Vocative: ολιγα
+
+Plural:
+Nominative: ολιγαδες
+Genitive: ολιγαδων
+Dative: ολιγασι(ν)
+Accusative: ολιγας
+Vocative: ολιγαδες
+
+Description:
+Ολιγας is a Greek word that means "few" or "little". It can be used to describe a small quantity of something or a small number of people. It can also be used to describe something that is not enough or insufficient. For example, "Έχω ολίγα χρήματα" (Eho oliga hrimata) means "I have little money".

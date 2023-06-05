@@ -1,0 +1,24 @@
+Word: πιων
+
+Etymology:
+The word πιων is the present participle of the Greek verb πίνω (pinō), which means "to drink". The verb πίνω comes from the Proto-Indo-European root *peh₃-, which means "to drink".
+
+Grammar:
+πιων is a masculine singular nominative present participle in Greek. It is declined as follows:
+
+Singular:
+Nominative: πιων
+Genitive: πίνοντος (pinontos)
+Dative: πίνοντι (pinonti)
+Accusative: πίνοντα (pinonta)
+Vocative: πιών (piōn)
+
+Plural:
+Nominative: πίνοντες (pinontes)
+Genitive: πιόντων (piontōn)
+Dative: πίνουσι(ν) (pinousi(n))
+Accusative: πίνοντας (pinontas)
+Vocative: πίνοντες (pinontes)
+
+Description:
+πιων is a present participle that describes someone who is currently drinking. It can be used as an adjective to describe a person or thing that is drinking, or as a noun to refer to someone who is drinking. For example, "ο πιων" (o piōn) means "the one who is drinking". The word can also be used in a figurative sense to describe someone who is absorbing or taking in information or experiences, as in "αυτός είναι ένας πιων γνώσης" (aftos einai enas piōn gnōsis), which means "he is a drinker of knowledge".

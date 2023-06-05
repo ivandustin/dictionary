@@ -1,0 +1,10 @@
+Word: ω
+
+Etymology:
+The Greek letter ω (omega) is the last letter of the Greek alphabet and has been in use since the 9th century BC. It is derived from the Phoenician letter ʿayin, which means "eye" and was used to represent the sound /ʕ/ in Semitic languages. The Greeks adopted this letter and used it to represent the long vowel sound /ɔː/ in their language.
+
+Grammar:
+In Greek, ω (omega) is a vowel and is pronounced as /ɔː/. It is often used as the final letter in words and can also be used as a suffix to indicate the feminine gender. For example, the word "anthropos" (man) becomes "anthropi" (woman) when the suffix ω is added.
+
+Description:
+The letter ω (omega) is commonly used in mathematics and physics to represent the last element in a sequence or the maximum value of a set. It is also used in astronomy to represent the angular velocity of a celestial object. In addition, the symbol ω is used in electrical engineering to represent the angular frequency of an alternating current.

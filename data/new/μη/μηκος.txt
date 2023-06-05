@@ -1,0 +1,20 @@
+Word: μηκος
+
+Etymology:
+The word μηκος (mēkos) is derived from the Greek root word μακρός (makrós), which means "long" or "tall". It is related to the English word "macro", which also means "large" or "long".
+
+Grammar:
+In Greek, μηκος is a neuter noun. It is declined as follows:
+
+Singular:
+Nominative: το μηκος (to mēkos) - the length
+Genitive: του μηκους (tou mēkous) - of the length
+Accusative: το μηκος (to mēkos) - the length
+
+Plural:
+Nominative: τα μηκη (ta mēkē) - the lengths
+Genitive: των μηκων (tōn mēkōn) - of the lengths
+Accusative: τα μηκη (ta mēkē) - the lengths
+
+Description:
+μηκος is a Greek word that means "length" or "longness". It can refer to the physical length of an object, as well as the length of time or distance. In ancient Greek literature, it was often used to describe the length of a journey or the length of a person's life. Today, it is still used in modern Greek to refer to length or distance.

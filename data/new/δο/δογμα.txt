@@ -1,0 +1,24 @@
+Word: δογμα
+
+Etymology:
+The word δογμα (dogma) comes from the Greek word δοκεῖν (dokein), which means "to seem" or "to think." In ancient Greece, the word was used to refer to opinions or beliefs that were held by a group of people. Later, in the Christian context, the word came to refer to a set of beliefs or doctrines that were considered to be authoritative and binding.
+
+Grammar:
+δογμα is a neuter noun in Greek. In the singular, it is declined as follows:
+
+Nominative: τὸ δόγμα (to dogma)
+Genitive: τοῦ δογματος (tou dogmatos)
+Dative: τῷ δογματι (tō dogmati)
+Accusative: τὸ δόγμα (to dogma)
+Vocative: δόγμα (dogma)
+
+In the plural, it is declined as follows:
+
+Nominative: τὰ δόγματα (ta dogmata)
+Genitive: τῶν δογμάτων (tōn dogmatōn)
+Dative: τοῖς δογμάτοις (tois dogmatois)
+Accusative: τὰ δόγματα (ta dogmata)
+Vocative: δόγματα (dogmata)
+
+Description:
+δογμα refers to a set of beliefs or doctrines that are considered to be authoritative and binding. In the Christian context, it refers to the official teachings of the church, which are considered to be divinely inspired and therefore not subject to debate or revision. The term can also be used more broadly to refer to any set of beliefs or principles that are considered to be fundamental or unchanging.

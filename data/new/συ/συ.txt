@@ -1,0 +1,13 @@
+Word: συ
+
+Etymology: συ is a Greek pronoun meaning "you" in the singular form. It is derived from the Proto-Indo-European root *túh₂, which also gave rise to the English word "thou."
+
+Grammar: συ is the second person singular pronoun in Greek, used to address one person. It is declined as follows:
+
+Nominative: συ
+Genitive: σου
+Dative: σοι
+Accusative: σε
+Vocative: ὦ σύ
+
+Description: συ is a common word in Greek, used in everyday conversation and writing. It is often used in conjunction with verbs and other pronouns to form complete sentences. In addition to its singular form, there are also plural forms of the pronoun used to address multiple people.

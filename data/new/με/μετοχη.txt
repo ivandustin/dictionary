@@ -1,0 +1,19 @@
+Word: μετοχή
+
+Etymology: The word μετοχή comes from the Greek verb μετέχω (metécho), which means "to participate" or "to share". The suffix -η (-i) is added to the verb stem to form a noun, indicating the state or quality of being a participant or sharer.
+
+Grammar: μετοχή is a feminine noun in Greek, belonging to the second declension. It is declined as follows:
+
+Singular:
+- Nominative: η μετοχή (i metochi) 
+- Genitive: της μετοχής (tis metochis)
+- Accusative: τη μετοχή (ti metochi)
+- Vocative: μετοχή (metochi)
+
+Plural:
+- Nominative: οι μετοχές (i metoches)
+- Genitive: των μετοχών (ton metochon)
+- Accusative: τις μετοχές (tis metoches)
+- Vocative: μετοχές (metoches)
+
+Description: In Greek grammar, μετοχή is a participle, which is a verbal adjective that can function as a noun. It is used to describe a state or action of the subject of a sentence, and can be either active or passive. In modern Greek, μετοχή is also used to refer to a share or stock in a company.

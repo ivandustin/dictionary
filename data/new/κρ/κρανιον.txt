@@ -1,0 +1,20 @@
+Word: κρανιον
+
+Etymology:
+The word κρανιον (kraniοn) is derived from the Greek word κρανίον (kraníon), which means "skull". It is a diminutive form of κρανία (kranía), which means "head".
+
+Grammar:
+In Greek, κρανιον is a neuter noun. It is declined as follows:
+
+Singular:
+Nominative: το κρανιον (to kraniοn) - the skull
+Genitive: του κρανιου (tou kraniou) - of the skull
+Accusative: το κρανιον (to kraniοn) - the skull
+
+Plural:
+Nominative: τα κρανια (ta krania) - the skulls
+Genitive: των κρανιων (ton kranion) - of the skulls
+Accusative: τα κρανια (ta krania) - the skulls
+
+Description:
+κρανιον (kraniοn) refers to the bony structure that forms the head of vertebrates. It protects the brain and other vital organs of the head. The skull is made up of several bones that are fused together, and it has various openings for the passage of nerves and blood vessels. The study of skulls is important in fields such as anthropology, archaeology, and forensics, as it can provide information about the age, sex, and health of the individual.

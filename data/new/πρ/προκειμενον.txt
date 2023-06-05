@@ -1,0 +1,10 @@
+Word: προκειμένον
+
+Etymology:
+The word προκειμένον comes from the Greek verb προκείμαι (prokeimai), which means "to lie before" or "to be set forth." The suffix -μένον (-menon) is a participle ending that indicates the present passive voice. Therefore, προκειμένον literally means "that which is being set forth" or "that which lies before."
+
+Grammar:
+προκειμένον is a neuter noun in the singular form. In Greek, neuter nouns have the same form for the nominative, accusative, and vocative cases. The genitive case is προκειμένου (prokeimenou), the dative case is προκειμένῳ (prokeimenō), and the accusative case is προκειμένον (prokeimenon).
+
+Description:
+προκειμένον is a philosophical term that refers to a proposition or a matter that is under consideration or discussion. It is often used in the context of logic and epistemology to denote a statement that is being examined or evaluated. In contemporary Greek, the word is also used in a more general sense to mean "the matter at hand" or "the subject under discussion."

@@ -1,0 +1,21 @@
+The word "ολιγαι" (oligai) is a feminine noun in Greek that means "few" or "a small number". It is the plural form of "ολίγος" (oligos), which is the singular form of the same word. 
+
+Etymology: The word "ολίγος" (oligos) comes from the Greek root "ὀλίγος" (oligos), which means "little" or "few". 
+
+Grammar: "Ολιγαι" (oligai) is a third-declension feminine noun in Greek. It is declined like this: 
+
+Singular: 
+- Nominative: ολίγη (oligē)
+- Genitive: ολίγης (oligēs)
+- Dative: ολίγῃ (oligēi)
+- Accusative: ολίγην (oligēn)
+- Vocative: ολίγη (oligē)
+
+Plural: 
+- Nominative: ολιγαι (oligai)
+- Genitive: ολιγῶν (oligōn)
+- Dative: ολίγαις (oligais)
+- Accusative: ολιγάς (oligas)
+- Vocative: ολιγαι (oligai)
+
+Description: "Ολιγαι" (oligai) is a common word in Greek that is used to describe a small number of things or people. It can be used in a variety of contexts, such as in mathematics, science, or everyday conversation. For example, "Υπάρχουν μόνο ολίγες γυναίκες στην αίθουσα" (There are only a few women in the room).

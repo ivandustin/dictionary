@@ -1,0 +1,17 @@
+Word: επληγη
+
+Etymology: The word επληγη comes from the Greek verb πλήττω (plétto), which means "to strike" or "to hit". The prefix ε- (e-) indicates a past tense form, so επληγη means "was struck" or "was hit".
+
+Grammar: επληγη is a past tense form of the verb πλήττω (plétto), which is a regular verb in Greek. It belongs to the first conjugation class, which means that it follows the pattern of verbs that end in -ω (o) in the present tense. The conjugation of πλήττω in the past tense is as follows:
+
+Singular:
+- έπληξα (épliksa) - I struck/hit
+- επλήγης (eplígis) - you (singular) were struck/hit
+- επλήγη (eplígi) - he/she/it was struck/hit
+
+Plural:
+- επλήξαμε (eplíksame) - we struck/hit
+- επλήγατε (eplígaste) - you (plural) were struck/hit
+- επλήγησαν (eplígisan) - they were struck/hit
+
+Description: επληγη is a past tense form of the verb πλήττω (plétto), which means "to strike" or "to hit". It is used to describe an action that happened in the past, specifically an action of being struck or hit. The word can be used in various contexts, such as in a sentence like "Επληγη από ένα αυτοκίνητο" (Eplígi apó éna aftokínito), which means "He was hit by a car".

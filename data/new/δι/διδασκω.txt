@@ -1,0 +1,20 @@
+Word: διδάσκω
+
+Etymology:
+The word διδάσκω (didasko) comes from the Greek root word διδαχή (didache), which means "teaching" or "instruction." The verb form διδάσκω means "to teach" or "to instruct."
+
+Grammar:
+διδάσκω is a Greek verb in the present tense, active voice, and indicative mood. It is conjugated as follows:
+
+- Singular:
+  - Εγώ διδάσκω (ego didasko) - I teach
+  - Συ διδάσκεις (su didaskeis) - You teach (singular)
+  - Αυτός/Αυτή/Αυτό διδάσκει (autos/afti/afto didaskei) - He/She/It teaches
+
+- Plural:
+  - Εμείς διδάσκουμε (emeis didaskoume) - We teach
+  - Εσείς διδάσκετε (eseis didaskete) - You teach (plural)
+  - Αυτοί/Αυτές/Αυτά διδάσκουν (autoi/aftes/afta didaskoun) - They teach
+
+Description:
+διδάσκω is a common Greek verb that is used to describe the act of teaching or instructing someone. It can be used in a variety of contexts, such as teaching a subject in school, instructing someone on how to do something, or sharing knowledge or information with others. The verb is often used in combination with other words to describe the specific type of teaching or instruction being given. For example, διδάσκω μαθηματικά (didasko mathimatika) means "I teach math," while διδάσκω την τέχνη του ζωγραφικής (didasko tin techni tou zografikis) means "I teach the art of painting."

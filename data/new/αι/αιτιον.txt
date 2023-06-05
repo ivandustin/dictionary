@@ -1,0 +1,24 @@
+Word: αιτιον
+
+Etymology:
+The word αιτιον (aition) comes from the Greek word αιτια (aitia), which means "cause" or "reason". It is derived from the verb αιτεω (aiteo), which means "to ask" or "to demand".
+
+Grammar:
+In Greek, αιτιον is a neuter noun. It is declined as follows:
+
+Singular:
+Nominative: αιτιον
+Genitive: αιτιου
+Dative: αιτιω
+Accusative: αιτιον
+Vocative: αιτιον
+
+Plural:
+Nominative: αιτια
+Genitive: αιτιων
+Dative: αιτιοις
+Accusative: αιτια
+Vocative: αιτια
+
+Description:
+The word αιτιον is used to refer to the cause or reason for something. It can also be used to refer to an accusation or charge. In philosophy, it is often used to refer to the cause or principle of something.

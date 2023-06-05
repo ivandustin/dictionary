@@ -1,0 +1,17 @@
+Word: εγκλημα
+
+Etymology: The word εγκλημα (engklīma) comes from the Greek root words εν (en) meaning "in" or "inside" and κλημα (klīma) meaning "crime" or "offense". Together, they form the word εγκλημα which means "a crime committed".
+
+Grammar: In Greek, εγκλημα is a neuter noun. It is declined as follows:
+
+Singular:
+- Nominative: το εγκλημα (to engklīma) - the crime
+- Genitive: του εγκλήματος (tou engklīmatos) - of the crime
+- Accusative: το εγκλημα (to engklīma) - the crime
+
+Plural:
+- Nominative: τα εγκλήματα (ta engklīmata) - the crimes
+- Genitive: των εγκλημάτων (tōn engklīmatōn) - of the crimes
+- Accusative: τα εγκλήματα (ta engklīmata) - the crimes
+
+Description: εγκλημα refers to any type of crime or offense committed by an individual. It can range from minor offenses such as traffic violations to more serious crimes such as murder or theft. The term is commonly used in legal contexts and is an important concept in the Greek legal system.

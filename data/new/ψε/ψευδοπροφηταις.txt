@@ -1,0 +1,22 @@
+Word: ψευδοπροφηταις
+
+Etymology:
+The word ψευδοπροφηταις is a compound word in Greek, consisting of two parts: ψευδο- (pseudos) meaning "false" and προφηταις (prophētēs) meaning "prophet". Therefore, the word ψευδοπροφηταις means "false prophet" in Greek.
+
+Grammar:
+In Greek, ψευδοπροφηταις is a masculine noun in the nominative plural form. It is declined as follows:
+
+Singular:
+- Nominative: ψευδοπροφητης (pseudoprophētēs) - "false prophet"
+- Genitive: ψευδοπροφητου (pseudoprophētou) - "of a false prophet"
+- Dative: ψευδοπροφητῃ (pseudoprophētē) - "to/for a false prophet"
+- Accusative: ψευδοπροφητην (pseudoprophētēn) - "false prophet"
+
+Plural:
+- Nominative: ψευδοπροφηται (pseudoprophētai) - "false prophets"
+- Genitive: ψευδοπροφητων (pseudoprophētōn) - "of false prophets"
+- Dative: ψευδοπροφηταις (pseudoprophētais) - "to/for false prophets"
+- Accusative: ψευδοπροφητας (pseudoprophētas) - "false prophets"
+
+Description:
+The word ψευδοπροφηταις is used in the New Testament of the Bible to refer to false prophets who claim to speak for God but are actually deceivers. It is used in a negative sense to warn against false teachings and false prophets. The word emphasizes the deceptive nature of these individuals and their teachings.

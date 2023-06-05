@@ -1,0 +1,24 @@
+Word: στοαι
+
+Etymology:
+The word στοαι (stoai) is derived from the Greek word στοά (stoá), which means a covered walkway or colonnade. The word στοά is believed to have originated from the Proto-Indo-European root *stā-, meaning "to stand".
+
+Grammar:
+στοαι is a plural noun in the Greek language. It belongs to the first declension and is declined as follows:
+
+Singular:
+Nominative: στοά
+Genitive: στοᾶς
+Dative: στοᾷ
+Accusative: στοάν
+Vocative: στοά
+
+Plural:
+Nominative: στοαί
+Genitive: στοῶν
+Dative: στοαῖς
+Accusative: στοάς
+Vocative: στοαί
+
+Description:
+στοαι refers to a series of colonnades or covered walkways that were common in ancient Greek architecture. These structures were typically supported by columns and provided shelter from the sun and rain. They were often used as public gathering places and were an important feature of many ancient Greek cities. The most famous example of a stoai is the Stoa of Attalos in Athens, which was built in the 2nd century BC and has been reconstructed in modern times.
