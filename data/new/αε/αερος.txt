@@ -1,7 +1,0 @@
-Word: αερος
-
-Etymology: The word αερος (aeros) comes from the Greek language and means "air" or "atmosphere". It is derived from the Greek word αήρ (aer), which also means "air".
-
-Grammar: αερος is a masculine noun in Greek and is declined in the singular and plural forms. In the singular, it is declined as follows: αερός (genitive), αέρας (accusative), αέρι (dative), and αέρα (vocative). In the plural, it is declined as follows: αέρες (nominative), αερών (genitive), αέρας (accusative), αέρεσι (dative), and αέρες (vocative).
-
-Description: αερος refers to the gaseous substance that surrounds the Earth and is essential for the survival of living organisms. It is a mixture of gases, primarily nitrogen (78%) and oxygen (21%), with small amounts of other gases such as carbon dioxide, argon, and neon. The study of the properties and behavior of air is known as aerodynamics, which is important in fields such as aviation, meteorology, and engineering.

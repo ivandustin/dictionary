@@ -1,7 +1,0 @@
-Word: λευκη
-
-Etymology: The word λευκη (leukē) is derived from the Greek word λευκός (leukós), which means "white". It is a feminine adjective in the nominative singular form.
-
-Grammar: In Greek, adjectives agree in gender, number, and case with the noun they modify. Therefore, if λευκη is used to describe a feminine singular noun in the nominative case, it would be declined as follows: λευκη (nominative singular), λευκης (genitive singular), λευκη (accusative singular), λευκες (nominative plural), λευκων (genitive plural), λευκες (accusative plural).
-
-Description: λευκη is an adjective that describes the color white. It can be used to describe objects, animals, or people that are white in color. For example, a white dress can be described as "μια λευκη φόρμα" (mia leukē fórma) in Greek. Similarly, a white cat can be described as "μια λευκη γάτα" (mia leukē gáta). The word λευκη can also be used metaphorically to describe something that is pure or innocent, such as "μια λευκη ψυχή" (mia leukē psychē), which means "a pure soul".

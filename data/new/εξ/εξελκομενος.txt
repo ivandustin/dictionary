@@ -1,7 +1,0 @@
-Word: εξελκομενος
-
-Etymology: The word εξελκομενος comes from the Greek verb εξέλκω (exélko), which means "to pull out" or "to extract". The suffix -μενος (-menos) is a participle ending, indicating that the word is in the passive voice and describes someone or something being pulled out or extracted.
-
-Grammar: εξελκομενος is a participle in the passive voice, masculine gender, singular number, and nominative case. It is derived from the verb εξέλκω (exélko), which is in the present tense, indicative mood, and active voice.
-
-Description: εξελκομενος describes someone or something that is being pulled out or extracted. It can be used as an adjective to modify a noun, or as a predicate in a sentence. For example, "Ο εξελκομενος οδοντας αισθανθηκε πονο" (The tooth being extracted caused pain).

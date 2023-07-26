@@ -1,7 +1,0 @@
-Word: αξων
-
-Etymology: The word αξων (axon) comes from the Greek word ἄξων (axōn), which means "axis" or "pivot". In biology, an axon is a long, slender projection of a nerve cell that conducts electrical impulses away from the cell body.
-
-Grammar: αξων is a masculine noun in Greek. Its nominative singular form is αξων, and its genitive singular form is αξονος (axonos). In the plural, the nominative form is αξονες (axones) and the genitive form is αξονων (axonon).
-
-Description: αξων is a term used in biology to refer to the long, slender projection of a nerve cell that conducts electrical impulses away from the cell body. The axon is covered by a myelin sheath, which helps to insulate and speed up the transmission of electrical signals. The length of an axon can vary greatly, from a few micrometers to over a meter in length. The axon is a crucial component of the nervous system, allowing for the transmission of information between neurons and ultimately enabling the brain to control the body's movements and functions.

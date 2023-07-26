@@ -1,7 +1,0 @@
-Word: κατακαλύπτεται
-
-Etymology: κατα- (kata-, prefix meaning "down") + καλύπτω (kalýpto, "to cover") + -ται (-tai, suffix indicating passive voice) = κατακαλύπτεται (katakalyptetai, "is being covered down")
-
-Grammar: κατακαλύπτεται is a present tense, passive voice, indicative mood verb in Greek. It is conjugated from the verb καλύπτω (kalýpto, "to cover") with the prefix κατα- (kata-, "down").
-
-Description: κατακαλύπτεται means "is being covered down" or "is being hidden". It is often used in a metaphorical sense to describe something that is being concealed or obscured.

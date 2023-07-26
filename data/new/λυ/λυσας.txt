@@ -1,7 +1,0 @@
-Word: λυσας
-
-Etymology: λυσας is the aorist active participle of the Greek verb λύω (lyo), which means "to loosen" or "to untie". The word comes from the Proto-Indo-European root *leu- which means "to loosen, divide, cut apart".
-
-Grammar: λυσας is a masculine singular form of the aorist active participle in Greek. It is declined like an adjective, agreeing in gender, number, and case with the noun it modifies. For example, if it modifies a masculine singular noun in the nominative case, it would be λυσας.
-
-Description: λυσας describes someone or something that has loosened or untied something. It can be used as an adjective to describe a person who has untied something, or as a participle in a sentence to describe an action that has been completed in the past. For example, "Ο λυσας αυτοκίνητος έφυγε" (O lysas aftokinitos efyge) means "The untied car left".

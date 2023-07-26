@@ -1,5 +1,0 @@
-The word "φονων" (phonon) is derived from the Greek word "φόνος" (phonos), which means "murder" or "slaughter". In physics, a phonon is a quantum of energy associated with the vibrational motion of atoms in a crystal lattice. 
-
-In terms of grammar, "φονων" is a noun in the genitive case, indicating possession or relationship to another noun. 
-
-Description-wise, "φονων" is a technical term used in the field of solid-state physics to describe the behavior of sound waves in a crystal lattice. It plays an important role in understanding the thermal and electrical properties of materials.

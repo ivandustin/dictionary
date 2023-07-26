@@ -1,7 +1,0 @@
-Word: εκαστου
-
-Etymology: The word εκαστου (ekastou) is derived from the Greek word εκάστος (ekastos), which means "each" or "every". It is a combination of the prefix εκ- (ek-), meaning "out of" or "from", and the word αὐτός (autos), meaning "self" or "same".
-
-Grammar: εκαστου is a genitive singular form of the Greek pronoun εκάστος (ekastos), which means "each" or "every". In Greek, the genitive case is used to indicate possession or relationship, and is often translated into English as "of" or "from".
-
-Description: εκαστου is used in Greek to indicate possession or relationship between two nouns. For example, in the phrase "τα βιβλία εκαστου μαθητή" (ta vivlia ekastou mathiti), which means "the books of each student", εκαστου indicates that each student possesses books. It can also be used to indicate a relationship between two things, such as in the phrase "η αξία εκαστου ανθρώπου" (i axia ekastou anthropou), which means "the value of every person", where εκαστου indicates the relationship between value and person.

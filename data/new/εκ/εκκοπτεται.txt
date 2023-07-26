@@ -1,7 +1,0 @@
-Word: εκκοπτεται
-
-Etymology: The word εκκοπτεται comes from the Greek verb εκκόπτω (ekkópto), which means "to cut out" or "to cut off". The suffix -ται (-tai) indicates that the verb is in the present tense and passive voice.
-
-Grammar: εκκοπτεται is a third person singular present passive indicative form of the verb εκκόπτω. In Greek, verbs have different forms depending on the tense, voice, mood, and person. The present tense indicates that the action is happening now, the passive voice indicates that the subject is receiving the action, and the third person singular indicates that the subject is he/she/it.
-
-Description: εκκοπτεται means "is being cut off" or "is being removed" in English. It can be used in various contexts, such as in medicine to describe a surgical procedure, in gardening to describe pruning, or in technology to describe the removal of a program or file.

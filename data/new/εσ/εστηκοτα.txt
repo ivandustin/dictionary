@@ -1,7 +1,0 @@
-Word: εστηκοτα
-
-Etymology: The word εστηκοτα comes from the Greek verb "στέκω" (stéko), which means "to stand". The prefix "ε-" (e-) indicates the perfect tense, so εστηκοτα means "having stood".
-
-Grammar: εστηκοτα is the perfect participle of the verb στέκω. It is declined according to gender, number, and case. For example, in the masculine singular nominative case, it is εστηκώς (estikós), while in the feminine singular nominative case, it is εστηκυῖα (estikyía).
-
-Description: εστηκοτα is used to describe something that has stood or is standing. It can be used as an adjective to modify a noun, or as a predicate to describe the subject of a sentence. For example, "οι εστηκότες στήλες" (oi estikótes stíles) means "the standing columns", while "οι στήλες είναι εστηκότες" (oi stíles íne estikótes) means "the columns are standing".

@@ -1,7 +1,0 @@
-Word: οιτινες
-
-Etymology: οιτινες is a Greek pronoun that comes from the combination of the words οἵ (hoi) and τινες (tines). Οἵ means "the" and τινες means "some" or "certain". Therefore, οιτινες means "those who" or "some who".
-
-Grammar: οιτινες is a plural relative pronoun in Greek. It is declined according to the gender, number, and case of the antecedent it refers to. For example, if the antecedent is masculine, the form is οἵτινες (hoitines), if it is feminine, the form is αἵτινες (haitines), and if it is neuter, the form is ἅτινα (hatina).
-
-Description: οιτινες is a pronoun that is used to introduce a relative clause and refers to a group of people or things that have been previously mentioned or are known from the context. It is often translated as "those who", "some who", or "whoever". For example, in the sentence "Οιτινες ήλθαν είναι φίλοι μου" (Those who came are my friends), οιτινες refers to the group of people who came and are identified as the speaker's friends.
