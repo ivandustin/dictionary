@@ -1,0 +1,12 @@
+Etymology: The word "γραφω" (graphe) comes from the Greek verb "γραφειν" (graphein), which means "to write." 
+
+Grammar: "Γραφω" is a verb in the Greek language. It belongs to the first conjugation class and is conjugated in the present tense as follows: 
+
+- Εγω γραφω (ego grafo) - I write
+- Εσυ γραφεις (esy grafeis) - You write (singular)
+- Αυτος/Αυτη/Αυτο γραφει (autos/auti/auto grafei) - He/She/It writes
+- Εμεις γραφουμε (emeis grafoume) - We write
+- Εσεις γραφετε (eseis grafete) - You write (plural)
+- Αυτοι/Αυτες γραφουν (autoi/autes grafoun) - They write
+
+Description: "Γραφω" is a versatile verb that means "to write" in Greek. It can refer to the act of physically writing with a pen or pencil, as well as the act of composing or creating written content. It is used in various contexts, such as writing letters, essays, stories, or any form of written communication.

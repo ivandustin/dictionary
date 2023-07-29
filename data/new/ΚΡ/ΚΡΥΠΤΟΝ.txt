@@ -1,0 +1,5 @@
+Etymology: The word "κρυπτόν" (krypton) comes from the Greek word "κρυπτός" (kryptos), meaning "hidden" or "concealed." It was named by its discoverers, Sir William Ramsay and Morris Travers, in 1898.
+
+Grammar: In Greek, "κρυπτόν" is a neuter noun. It belongs to the second declension and has the nominative singular form "κρυπτόν." The genitive singular form is "κρυπτού," and the accusative singular form is also "κρυπτόν."
+
+Description: Krypton is a chemical element with the symbol Kr and atomic number 36. It is a noble gas and is colorless, odorless, and tasteless. Krypton is present in the Earth's atmosphere in trace amounts and is used in various applications, including lighting, lasers, and as a filling gas in certain types of windows. It is also used in some specialized scientific research and medical imaging techniques.

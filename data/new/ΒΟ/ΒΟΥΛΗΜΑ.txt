@@ -1,0 +1,5 @@
+Etymology: The word "βουλήμα" (voulíma) comes from the Greek verb "βουλεύομαι" (vouleúomai), which means "to deliberate" or "to consider." It is derived from the noun "βούληση" (voúlisi), meaning "will" or "desire."
+
+Grammar: "Βουλήμα" is a noun in the Greek language. It is a neuter noun of the second declension. In the singular form, it is declined as follows: nominative case "το βουλήμα" (to voulíma), genitive case "του βουλήματος" (tou voulímatoς), accusative case "το βουλήμα" (to voulíma), and vocative case "βουλήμα" (voulíma). In the plural form, it is declined as follows: nominative case "τα βουλήματα" (ta voulímata), genitive case "των βουλημάτων" (ton voulimatón), accusative case "τα βουλήματα" (ta voulímata), and vocative case "βουλήματα" (voulímata).
+
+Description: "Βουλήμα" refers to a decision, resolution, or determination made by someone after careful consideration or deliberation. It can also denote a will or desire that someone has. The word is often used in legal, philosophical, or political contexts to describe a formal decision or a deliberate choice.

@@ -1,0 +1,17 @@
+Etymology: The word "μαθητρία" comes from the Greek word "μαθητής" (mathitis), which means "student" or "disciple". The suffix "-ρία" (-ria) is added to form a feminine noun, indicating a female student or disciple.
+
+Grammar: "Μαθητρία" is a feminine noun in Greek. It belongs to the second declension and is declined as follows:
+
+Singular:
+- Nominative: η μαθητρία (i mathitria) - the student
+- Genitive: της μαθητρίας (tis mathitrias) - of the student
+- Accusative: τη μαθητρία (ti mathitria) - the student
+- Vocative: μαθητρία (mathitria) - student
+
+Plural:
+- Nominative: οι μαθήτριες (i mathitries) - the students
+- Genitive: των μαθητριών (ton mathitrion) - of the students
+- Accusative: τις μαθήτριες (tis mathitries) - the students
+- Vocative: μαθήτριες (mathitries) - students
+
+Description: "Μαθητρία" refers to a female student or disciple. It is used to describe a woman who is learning or being taught in a formal or informal setting, such as a school, university, or apprenticeship.

@@ -1,0 +1,5 @@
+Etymology: The word "μεσον" (meson) comes from the Greek word "μέσος" (mesos), meaning "middle" or "between". It is used in various scientific contexts to refer to particles that have intermediate mass between electrons and protons.
+
+Grammar: "Μεσον" (meson) is a noun in the singular form in Greek.
+
+Description: In particle physics, a meson is a subatomic particle composed of a quark and an antiquark. Mesons are unstable and have a short lifetime. They are classified as bosons and are involved in the strong nuclear force, which binds protons and neutrons together in atomic nuclei. Mesons have been extensively studied in particle physics experiments to understand the fundamental properties of matter and the forces that govern the universe.

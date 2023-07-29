@@ -1,0 +1,5 @@
+Etymology: The word "εμαυτόν" (emautón) comes from the Greek language. It is a combination of the pronoun "εγώ" (ego), meaning "I," and the reflexive pronoun "αυτόν" (autón), meaning "myself." 
+
+Grammar: "Εμαυτόν" is a first-person reflexive pronoun in Greek. It is used to refer back to the subject of the sentence, indicating that the action is performed by the subject on themselves. It is declined according to the case, number, and gender of the subject.
+
+Description: "Εμαυτόν" is used when the subject of the sentence is also the object of the action. It emphasizes self-action or self-reference. For example, "Κάνω τη δουλειά μόνος μου" (Káno ti douleía mónos mou) means "I do the work by myself," where "μόνος μου" (mónos mou) is the equivalent of "εμαυτόν" in Greek.
