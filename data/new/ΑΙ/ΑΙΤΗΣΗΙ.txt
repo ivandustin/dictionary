@@ -1,0 +1,10 @@
+Etymology: The word "αἴτηση" (aitēsē) comes from the Greek verb "αἰτέω" (aiteō), which means "to ask" or "to request." It is derived from the Proto-Indo-European root *h₂eid-.
+
+Grammar: "Αίτηση" is a feminine noun in Greek. It belongs to the third declension and has a genitive form of "αίτησης" (aitēsēs). In the singular, it can be declined as follows:
+- Nominative: αίτηση (aitēsē)
+- Genitive: αίτησης (aitēsēs)
+- Accusative: αίτηση (aitēsē)
+- Vocative: αίτηση (aitēsē)
+- Dative: αίτηση (aitēsē)
+
+Description: "Αίτηση" is a Greek word that means "request" or "application." It refers to the act of asking for something or making a formal request or application. It is commonly used in various contexts, such as job applications, legal requests, or formal inquiries.

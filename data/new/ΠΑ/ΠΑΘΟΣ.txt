@@ -1,0 +1,17 @@
+Etymology: The word "παθος" (pathos) comes from the Greek language and it means "suffering" or "experience". It is derived from the verb "πάσχω" (pascho), which means "to suffer" or "to experience".
+
+Grammar: In Greek, "παθος" (pathos) is a noun of neuter gender. It is declined as follows:
+
+Singular:
+- Nominative: το παθος (to pathos) - the suffering/experience
+- Genitive: του παθους (tou pathous) - of the suffering/experience
+- Accusative: το παθος (to pathos) - the suffering/experience
+- Vocative: παθος (pathos) - O suffering/experience!
+
+Plural:
+- Nominative: τα παθη (ta pathi) - the sufferings/experiences
+- Genitive: των παθων (ton pathon) - of the sufferings/experiences
+- Accusative: τα παθη (ta pathi) - the sufferings/experiences
+- Vocative: παθη (pathi) - O sufferings/experiences!
+
+Description: "Παθος" (pathos) refers to a strong feeling or emotion, often associated with suffering or intense experience. It can also refer to the power of evoking such emotions in others, as in literature, art, or music. The concept of pathos is often used to create emotional connections and engage the audience's emotions.

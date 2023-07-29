@@ -1,0 +1,19 @@
+Etymology: The word "δακτυλος" (daktylos) comes from the Greek language and means "finger". It is derived from the Proto-Indo-European root *deḱ- which means "to show, to point out".
+
+Grammar: In Greek, "δακτυλος" (daktylos) is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: δακτυλος (daktylos) - finger
+- Genitive: δακτυλου (daktylou) - of a finger
+- Dative: δακτυλῳ (daktylō) - to/for a finger
+- Accusative: δακτυλον (daktylon) - finger
+- Vocative: δακτυλε (daktyle) - O finger
+
+Plural:
+- Nominative: δακτυλοι (daktyloi) - fingers
+- Genitive: δακτυλων (daktylōn) - of fingers
+- Dative: δακτυλοις (daktylois) - to/for fingers
+- Accusative: δακτυλους (daktylous) - fingers
+- Vocative: δακτυλοι (daktyloi) - O fingers
+
+Description: "Δακτυλος" (daktylos) refers to the anatomical structure found on the hand, commonly known as a finger. It is used for various functions such as gripping, pointing, and sensing. Fingers are composed of bones, joints, muscles, tendons, and skin, allowing for dexterity and fine motor skills.

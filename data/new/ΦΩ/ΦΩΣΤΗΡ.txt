@@ -1,0 +1,19 @@
+Etymology: The word "φωστηρ" (phōstēr) comes from the Greek word "φῶς" (phōs), meaning "light".
+
+Grammar: In Greek, "φωστηρ" is a masculine noun of the third declension. It is declined as follows:
+
+Singular:
+- Nominative: ο φωστηρ (o phōstēr) - the light
+- Genitive: του φωστηρος (tou phōstēros) - of the light
+- Dative: τῳ φωστηρι (tōi phōstēri) - to/for the light
+- Accusative: τον φωστηρα (ton phōstēra) - the light
+- Vocative: φωστηρ (phōstēr) - O light!
+
+Plural:
+- Nominative: οι φωστηρες (oi phōstēres) - the lights
+- Genitive: των φωστηρων (tōn phōstērōn) - of the lights
+- Dative: τοις φωστηρεσι(ς) (tois phōstēresi(s)) - to/for the lights
+- Accusative: τους φωστηρες (tous phōstēres) - the lights
+- Vocative: φωστηρες (phōstēres) - O lights!
+
+Description: "φωστηρ" is the Greek word for "light". It can refer to both natural light and artificial light sources. In Greek mythology, the god Apollo was often associated with the sun and light, and was sometimes referred to as "φωστηρ". The word can also be used metaphorically to represent knowledge, enlightenment, or guidance.

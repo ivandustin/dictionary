@@ -1,0 +1,5 @@
+Etymology: The word "εαυτόν" (pronounced "eaftón") comes from the Greek language. It is derived from the combination of the pronoun "εαυτός" (pronounced "eaftós"), meaning "self," and the suffix "-ν" (pronounced "-n"), which is used to indicate the accusative case.
+
+Grammar: In Greek grammar, "εαυτόν" is a third-person singular pronoun in the accusative case. It is used to refer to the reflexive form of the third-person pronoun "αυτός" (pronounced "aftós"), meaning "he," "she," or "it." It is used when the subject of a sentence performs an action on itself.
+
+Description: "Εαυτόν" is used to express self-reflection or self-action. It is commonly used in sentences where the subject is performing an action on themselves. For example, "Ο άνθρωπος πλένει τον εαυτόν του" (pronounced "O ánthropos plénei ton eaftón tu") translates to "The man is washing himself."

@@ -1,0 +1,5 @@
+Etymology: The word "νεφος" (nefos) comes from the Ancient Greek language. It is derived from the Proto-Indo-European root *neb(h)-, meaning "cloud" or "mist".
+
+Grammar: In Greek, "νεφος" is a noun of neuter gender. It belongs to the second declension and has the nominative singular form "νεφος". The genitive singular form is "νεφους", the accusative singular form is "νεφος", and the vocative singular form is also "νεφος". In the plural, the nominative form is "νεφη", the genitive form is "νεφων", the accusative form is "νεφη", and the vocative form is "νεφη".
+
+Description: "Νεφος" is the Greek word for "cloud". It refers to a visible mass of water droplets or ice crystals suspended in the atmosphere. Clouds are an important part of the Earth's weather system and play a role in the water cycle. They can vary in size, shape, and color, and are often used as a metaphor for something that is hazy, unclear, or mysterious.

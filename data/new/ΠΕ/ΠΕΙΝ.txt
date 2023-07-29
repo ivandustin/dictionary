@@ -1,0 +1,12 @@
+Etymology: The word "πειν" (pein) comes from the Greek verb "πείνω" (peino), which means "to be hungry".
+
+Grammar: "Πειν" is a verb in the Greek language. It is in the present tense, indicative mood, and active voice. It is conjugated as follows:
+
+- Εγώ πεινώ (ego peino) - I am hungry
+- Εσύ πεινάς (esi peinas) - You are hungry
+- Αυτός/Αυτή/Αυτό πεινάει (aftos/afti/afto peinaei) - He/She/It is hungry
+- Εμείς πεινάμε (emeis peiname) - We are hungry
+- Εσείς πεινάτε (eseis peinate) - You are hungry (plural/formal)
+- Αυτοί/Αυτές πεινάνε (aftoi/aftes peinane) - They are hungry
+
+Description: "Πειν" is a verb that describes the state of being hungry. It is used to express the feeling of hunger or the need for food.

@@ -1,0 +1,17 @@
+Etymology: The word "προειρημένων" comes from the Greek verb "προειρημένος" (proeirimenos), which means "to be mentioned beforehand" or "to be stated in advance." It is derived from the prefix "προ-" (pro-), meaning "before," and the verb "εἴρημι" (eirēmi), meaning "to say" or "to speak."
+
+Grammar: "Προειρημένων" is the plural form of the noun "προειρημένος" (proeirimenos). In Greek grammar, it belongs to the category of neuter nouns of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: το προειρημένον (to proeirimenon)
+- Genitive: του προειρημένου (tou proeirimenou)
+- Accusative: το προειρημένον (to proeirimenon)
+- Vocative: προειρημένε (proeirimene)
+
+Plural:
+- Nominative: τα προειρημένα (ta proeirimena)
+- Genitive: των προειρημένων (ton proeirimenon)
+- Accusative: τα προειρημένα (ta proeirimena)
+- Vocative: προειρημένα (proeirimena)
+
+Description: "Προειρημένων" is a Greek noun that translates to "mentioned beforehand" or "stated in advance" in English. It is used to refer to things that have been previously mentioned or stated.

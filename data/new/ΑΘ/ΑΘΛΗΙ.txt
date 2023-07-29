@@ -1,0 +1,17 @@
+Etymology: The word "αθλητής" (athlitis) comes from the Greek word "αθλέω" (athleo), which means "to compete" or "to strive." It is derived from the noun "αθλος" (athlos), meaning "contest" or "competition."
+
+Grammar: "Αθλητής" is a masculine noun in the Greek language. It belongs to the second declension and is declined as follows:
+
+Singular:
+- Nominative: αθλητής (athlitis) - the subject of a sentence
+- Genitive: αθλητή (athliti) - shows possession or origin
+- Accusative: αθλητή (athliti) - the direct object of a sentence
+- Vocative: αθλητή (athliti) - used for direct address
+
+Plural:
+- Nominative: αθλητές (athlites) - the subject of a sentence
+- Genitive: αθλητών (athliton) - shows possession or origin
+- Accusative: αθλητές (athlites) - the direct object of a sentence
+- Vocative: αθλητές (athlites) - used for direct address
+
+Description: "Αθλητής" is the Greek word for "athlete." It refers to a person who participates in sports or physical activities, often in a competitive manner. Athletes are known for their physical prowess, skill, and dedication to their chosen sport. They undergo rigorous training and strive to achieve excellence in their performance.

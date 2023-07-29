@@ -1,0 +1,5 @@
+Etymology: The word "γεγραμμένος" (gegrammenos) comes from the Greek verb "γράφω" (grapho), which means "to write". The prefix "γε-" (ge-) indicates the perfect tense, so "γεγραμμένος" can be translated as "having been written".
+
+Grammar: "Γεγραμμένος" is the masculine form of the past participle in Greek. It agrees in gender, number, and case with the noun it modifies. For example, if it modifies a feminine singular noun, it becomes "γεγραμμένη" (gegrammeni).
+
+Description: "Γεγραμμένος" is used to describe something that has been written or inscribed. It can refer to a written document, a written message, or any other form of written communication.

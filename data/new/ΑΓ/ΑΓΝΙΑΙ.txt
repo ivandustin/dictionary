@@ -1,0 +1,17 @@
+Etymology: The word "αγνιαί" (agniaí) comes from the Greek adjective "αγνός" (agnós), which means "pure" or "clean".
+
+Grammar: "Αγνιαί" is the plural form of the noun "αγνιά" (agniá), which is a feminine noun in Greek. It belongs to the second declension and is declined as follows:
+
+Singular:
+- Nominative: η αγνιά (i agniá) - the purity
+- Genitive: της αγνιάς (tis agniás) - of the purity
+- Accusative: την αγνιά (tin agniá) - the purity
+- Vocative: αγνιά (agniá) - purity
+
+Plural:
+- Nominative: οι αγνιαί (i agniaí) - the purities
+- Genitive: των αγνιών (ton agnión) - of the purities
+- Accusative: τις αγνιαίς (tis agniaís) - the purities
+- Vocative: αγνιαί (agniaí) - purities
+
+Description: "Αγνιαί" refers to multiple instances of purity. It can be used to describe physical cleanliness, moral purity, or the absence of impurities.

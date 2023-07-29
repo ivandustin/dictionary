@@ -1,0 +1,19 @@
+Etymology: The word "τελώνιον" (telōnion) comes from the Greek word "τέλος" (telos), meaning "tax" or "duty". It is derived from the verb "τελέω" (teleō), which means "to complete" or "to fulfill".
+
+Grammar: In Greek, "τελώνιον" is a neuter noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: τελώνιον (telōnion)
+- Genitive: τελωνίου (telōniou)
+- Dative: τελωνίῳ (telōniō)
+- Accusative: τελώνιον (telōnion)
+- Vocative: τελώνιον (telōnion)
+
+Plural:
+- Nominative: τελώνια (telōnia)
+- Genitive: τελωνίων (telōniōn)
+- Dative: τελωνίοις (telōniois)
+- Accusative: τελώνια (telōnia)
+- Vocative: τελώνια (telōnia)
+
+Description: "Τελώνιον" is a Greek word that refers to a tax office or customs house. In ancient Greece, it was a place where taxes and customs duties were collected. The term is also used in the New Testament of the Bible to refer to tax collectors.

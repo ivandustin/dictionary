@@ -1,0 +1,5 @@
+Etymology: The word "παραδοθώ" (paradotho) comes from the Greek verb "παραδίδωμι" (paradidomi), which means "to deliver" or "to hand over." It is derived from the combination of the preposition "παρά" (para), meaning "beside" or "alongside," and the verb "δίδωμι" (didomi), meaning "to give."
+
+Grammar: "παραδοθώ" is a first-person singular passive future tense verb in Greek. It is formed by adding the future tense ending "-θω" (-tho) to the passive form of the verb "παραδίδωμι" (paradidomi).
+
+Description: "παραδοθώ" is used to express the action of being delivered or handed over in the future tense. It implies a passive role, indicating that the subject will be the recipient of the action rather than the one performing it.

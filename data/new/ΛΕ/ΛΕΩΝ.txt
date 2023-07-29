@@ -1,0 +1,19 @@
+Etymology: The word "λεων" (leon) comes from the Greek language and is derived from the Proto-Indo-European root *lew- meaning "lion". 
+
+Grammar: In Greek, "λεων" is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: λεων (leon) - the subject of a sentence
+- Genitive: λεοντος (leontos) - shows possession or origin
+- Dative: λεοντι (leonti) - indicates the indirect object
+- Accusative: λεοντα (leonta) - the direct object of a sentence
+- Vocative: λεων (leon) - used for direct address
+
+Plural:
+- Nominative: λεοντες (leontes) - the subject of a sentence
+- Genitive: λεοντων (leonton) - shows possession or origin
+- Dative: λεοσι (leosi) - indicates the indirect object
+- Accusative: λεοντας (leontas) - the direct object of a sentence
+- Vocative: λεοντες (leontes) - used for direct address
+
+Description: "Λεων" is the Greek word for "lion". It refers to a large, carnivorous mammal of the Felidae family, known for its majestic appearance, strength, and roar. Lions are native to Africa and some parts of Asia, and they are often associated with power, courage, and royalty. In Greek mythology, the lion is a symbol of strength and is often depicted as a guardian or companion of gods and heroes.

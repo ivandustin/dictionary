@@ -1,0 +1,19 @@
+Etymology: The word "τελωνης" (telones) comes from the Greek word "τελος" (telos), meaning "tax" or "duty". In ancient Greece, a telones was a tax collector or customs officer.
+
+Grammar: In Greek, "τελωνης" (telones) is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: τελωνης (telones)
+- Genitive: τελωνου (telonou)
+- Dative: τελωνῃ (telonei)
+- Accusative: τελωνην (telonen)
+- Vocative: τελωνη (telone)
+
+Plural:
+- Nominative: τελωναι (telonai)
+- Genitive: τελωνων (telonon)
+- Dative: τελωναις (telonais)
+- Accusative: τελωνας (telonas)
+- Vocative: τελωναι (telonai)
+
+Description: A "τελωνης" (telones) is a person who works at a customs office or border crossing, responsible for collecting taxes, duties, and tariffs on imported and exported goods. They ensure that the correct taxes are paid and that goods comply with customs regulations. Telones can also refer to tax collectors in general, who collect taxes from individuals or businesses.

@@ -1,0 +1,5 @@
+Etymology: The word "εαυτήν" (pronounced "eaftin") comes from the Greek language. It is the accusative form of the reflexive pronoun "εαυτός" (pronounced "eaftos"), which means "self" or "oneself".
+
+Grammar: In Greek, "εαυτήν" is the accusative form of the pronoun "εαυτός". It is used to refer back to the subject of the sentence, indicating that the action is being performed by the subject on itself.
+
+Description: "Εαυτήν" is a pronoun used in Greek to express reflexive actions. It is used when the subject of the sentence is also the object of the action. For example, in the sentence "Ο Γιάννης πλένει τα χέρια του εαυτού του" (pronounced "O Yannis plenei ta heria tou eaftou tou"), which translates to "John is washing his own hands", the pronoun "εαυτού" refers back to the subject "Ο Γιάννης" (John) and indicates that he is washing his own hands.

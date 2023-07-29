@@ -1,0 +1,19 @@
+Etymology: The word "βασιλεύς" (basileus) comes from the ancient Greek language. It is derived from the Proto-Indo-European root *h₂wes- meaning "to dwell" or "to reside." In ancient Greece, the term originally referred to the leader or ruler of a city-state.
+
+Grammar: In Greek, "βασιλεύς" is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: βασιλεύς (basileús) - the subject of a sentence
+- Genitive: βασιλέως (basileós) - indicates possession or origin
+- Dative: βασιλεῖ (basileî) - indicates the indirect object
+- Accusative: βασιλέα (basileá) - indicates the direct object
+- Vocative: βασιλεῦ (basileû) - used for direct address
+
+Plural:
+- Nominative: βασιλεῖς (basileîs)
+- Genitive: βασιλέων (basileón)
+- Dative: βασιλεῦσι(ν) (basileûsi(n))
+- Accusative: βασιλεῖς (basileîs)
+- Vocative: βασιλεῖς (basileîs)
+
+Description: "Βασιλεύς" is the Greek word for "king" or "ruler." It refers to a male monarch who holds supreme authority over a kingdom or territory. In ancient Greece, the role of a basileus varied depending on the city-state, but generally, they were responsible for governing and making important decisions. The term can also be used metaphorically to describe someone who is highly respected or influential.

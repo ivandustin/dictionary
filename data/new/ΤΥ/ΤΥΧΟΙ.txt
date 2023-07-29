@@ -1,0 +1,17 @@
+Etymology: The word "τυχοι" (tychoi) comes from the Greek word "τύχη" (tyche), which means "luck" or "fortune". 
+
+Grammar: "Τυχοι" is the plural form of the noun "τυχή" (tyche), which is a feminine noun in Greek. It belongs to the second declension and is declined as follows:
+
+Singular:
+- Nominative: η τυχή (i tyche) 
+- Genitive: της τυχής (tis tyches)
+- Accusative: την τυχή (tin tyche)
+- Vocative: ω τυχή (o tyche)
+
+Plural:
+- Nominative: οι τυχοι (i tychoi)
+- Genitive: των τυχών (ton tyhon)
+- Accusative: τους τυχούς (tous tyhous)
+- Vocative: ω τυχοί (o tychoi)
+
+Description: "Τυχοι" refers to "luck" or "fortunes" in Greek. It can be used to describe both positive and negative outcomes or events that occur by chance or without control.

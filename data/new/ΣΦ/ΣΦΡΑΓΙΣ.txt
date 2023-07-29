@@ -1,0 +1,19 @@
+Etymology: The word "σφραγίς" (sphragis) comes from the Greek verb "σφράγιζω" (sphragizo), which means "to seal" or "to stamp." It is derived from the noun "σφραγίς" (sphragis), meaning "a seal" or "a stamp."
+
+Grammar: In Greek, "σφραγίς" (sphragis) is a feminine noun of the third declension. It is declined as follows:
+
+Singular:
+- Nominative: η σφραγίς (i sphragis) 
+- Genitive: της σφραγίδος (tis sphragidos)
+- Dative: τη σφραγίδι (ti sphragidi)
+- Accusative: τη σφραγίδα (ti sphragida)
+- Vocative: σφραγίς (sphragis)
+
+Plural:
+- Nominative: οι σφραγίδες (i sphragides)
+- Genitive: των σφραγίδων (ton sphragidon)
+- Dative: ταις σφραγίσι (tes sphragisi)
+- Accusative: τις σφραγίδες (tis sphragides)
+- Vocative: σφραγίδες (sphragides)
+
+Description: "Σφραγίς" (sphragis) refers to a seal or a stamp used to mark or authenticate something. It can be a physical object, such as a wax seal or a stamp, or a metaphorical concept representing authority, authenticity, or closure. The word is often used in legal, administrative, or religious contexts.

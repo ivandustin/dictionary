@@ -1,0 +1,17 @@
+Etymology: The word "απαν" comes from the Greek language. It is derived from the combination of the prefix "απ-" (meaning "away from" or "off") and the root "αν" (meaning "all" or "every").
+
+Grammar: In Greek, "απαν" is a noun in the neuter gender. It is declined as follows:
+
+Singular:
+- Nominative: απαν
+- Genitive: απαντος
+- Accusative: απαν
+- Vocative: απαν
+
+Plural:
+- Nominative: απαντα
+- Genitive: απαντων
+- Accusative: απαντα
+- Vocative: απαντα
+
+Description: The word "απαν" is used to refer to something that is complete, whole, or all-encompassing. It can also be used to indicate the entirety of a group or collection.

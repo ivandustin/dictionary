@@ -1,0 +1,17 @@
+Etymology: The word "τετραμηνος" comes from the Greek roots "τετρα-" meaning "four" and "μηνος" meaning "month". It literally translates to "four months".
+
+Grammar: In Greek, "τετραμηνος" is a masculine noun in the nominative case. It is declined as follows:
+
+Singular:
+- Nominative: τετραμηνος
+- Genitive: τετραμηνου
+- Accusative: τετραμηνο
+- Vocative: τετραμηνε
+
+Plural:
+- Nominative: τετραμηνοι
+- Genitive: τετραμηνων
+- Accusative: τετραμηνους
+- Vocative: τετραμηνοι
+
+Description: "τετραμηνος" refers to a period of four months. It can be used to describe a duration or a specific time frame that spans four months.

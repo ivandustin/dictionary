@@ -1,0 +1,19 @@
+Etymology: The word "πρεσβυτης" (presbyter) comes from the Greek word "πρεσβυς" (presbus), meaning "elder" or "old man". It is derived from the Proto-Indo-European root *pres-, which means "elder" or "old".
+
+Grammar: In Greek, "πρεσβυτης" is a masculine noun of the third declension. It is declined as follows:
+
+Singular:
+- Nominative: πρεσβυτης (presbyter)
+- Genitive: πρεσβυτου (presbyterou)
+- Dative: πρεσβυτη (presbyteri)
+- Accusative: πρεσβυτην (presbyteren)
+- Vocative: πρεσβυτα (presbytera)
+
+Plural:
+- Nominative: πρεσβυται (presbyterai)
+- Genitive: πρεσβυτων (presbyteron)
+- Dative: πρεσβυταις (presbyterais)
+- Accusative: πρεσβυτας (presbyteras)
+- Vocative: πρεσβυται (presbyterai)
+
+Description: "Πρεσβυτης" is a Greek word that means "elder" or "presbyter". In the context of Christianity, it refers to a leader or official in the early Christian church who was responsible for the spiritual guidance and governance of a local congregation. The term is also used in other religious contexts to refer to a person of authority or seniority.

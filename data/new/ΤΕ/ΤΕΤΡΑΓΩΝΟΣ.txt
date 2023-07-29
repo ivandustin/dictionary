@@ -1,0 +1,5 @@
+Etymology: The word "τετραγωνος" comes from the Greek word "τετρα-" meaning "four" and "γωνος" meaning "angle". It is derived from the combination of "τετρα-" and "γωνος".
+
+Grammar: "τετραγωνος" is a Greek adjective that means "square" in English. It is used to describe a shape that has four equal sides and four right angles.
+
+Description: In geometry, a square is a quadrilateral with four equal sides and four right angles. It is a special type of rectangle where all sides are of equal length. The opposite sides of a square are parallel, and all angles are 90 degrees. The area of a square is calculated by multiplying the length of one side by itself, and the perimeter is calculated by adding all four sides together. Squares are commonly used in various fields, including mathematics, architecture, and design.

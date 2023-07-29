@@ -1,0 +1,5 @@
+Etymology: The word "ευθείας" (euthéias) comes from the Greek adjective "εὐθύς" (euthús), meaning "straight" or "direct."
+
+Grammar: "Ευθείας" is a feminine noun in the nominative case. It is the singular form of the word, and it means "straight line" or "straight path" in Greek.
+
+Description: In mathematics, "ευθείας" refers to a straight line, which is the shortest distance between two points. It has no curves or bends. In geometry, a straight line is defined as a line that extends infinitely in both directions. It has no thickness or width. Straight lines play a fundamental role in various mathematical concepts and applications.

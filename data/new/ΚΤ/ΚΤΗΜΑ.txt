@@ -1,0 +1,17 @@
+Etymology: The word "κτήμα" comes from the Greek verb "κτῆσις" (ktēsis), which means "acquisition" or "possession". It is derived from the verb "κτάομαι" (ktaomai), meaning "to acquire" or "to possess".
+
+Grammar: In Greek, "κτήμα" is a neuter noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: τὸ κτήμα (to ktēma) - the possession
+- Genitive: τοῦ κτήματος (tou ktēmatos) - of the possession
+- Accusative: τὸ κτῆμα (to ktēma) - the possession
+- Vocative: κτῆμα (ktēma) - possession
+
+Plural:
+- Nominative: τὰ κτήματα (ta ktēmata) - the possessions
+- Genitive: τῶν κτημάτων (tōn ktēmatōn) - of the possessions
+- Accusative: τὰ κτήματα (ta ktēmata) - the possessions
+- Vocative: κτήματα (ktēmata) - possessions
+
+Description: "Κτήμα" is a Greek word that refers to a possession, property, or estate. It can be used to describe both tangible and intangible assets that someone owns. It is often used in legal and financial contexts to refer to real estate, land, or other valuable assets.

@@ -1,0 +1,17 @@
+Etymology: The word "ομοιαι" (omoiē) comes from the Greek adjective "ομοιος" (omoios), meaning "similar" or "alike". 
+
+Grammar: "Ομοιαι" is the plural form of the noun "ομοια" (omoiā), which is a feminine noun in Greek. It belongs to the second declension and is declined as follows:
+
+Singular:
+- Nominative: η ομοια (ē omoia) 
+- Genitive: της ομοιας (tēs omoias)
+- Accusative: την ομοια (tēn omoia)
+- Vocative: ομοια (omoia)
+
+Plural:
+- Nominative: οι ομοιαι (oi omoiai)
+- Genitive: των ομοιων (tōn omoiōn)
+- Accusative: τις ομοιες (tis omoies)
+- Vocative: ομοιες (omoies)
+
+Description: "Ομοιαι" is a Greek noun that means "similarities" or "likenesses". It refers to the qualities or characteristics that two or more things share, making them alike or similar to each other.

@@ -1,0 +1,17 @@
+Etymology: The word "συμβούλιο" (symvoulion) comes from the Greek root words "σύν" (syn), meaning "together," and "βουλή" (vouli), meaning "council" or "assembly." It refers to a group of people who come together to discuss and advise on a particular matter.
+
+Grammar: In Greek, "συμβούλιο" is a noun of neuter gender. It is declined as follows:
+
+Singular:
+- Nominative: το συμβούλιο (to symvoulion) - the council
+- Genitive: του συμβουλίου (tou symvouliou) - of the council
+- Accusative: το συμβούλιο (to symvoulion) - the council
+- Vocative: συμβούλιο (symvoulion) - council
+
+Plural:
+- Nominative: τα συμβούλια (ta symvoulia) - the councils
+- Genitive: των συμβουλίων (ton symvoulion) - of the councils
+- Accusative: τα συμβούλια (ta symvoulia) - the councils
+- Vocative: συμβούλια (symvoulia) - councils
+
+Description: "Συμβούλιο" is a Greek word that refers to a council or assembly of people who gather to discuss and advise on a specific topic or issue. It can be used in various contexts, such as political, advisory, or professional settings. The word implies a collaborative and consultative approach to decision-making and problem-solving.

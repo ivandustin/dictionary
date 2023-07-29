@@ -1,0 +1,17 @@
+Etymology: The word "μισθός" (místhos) comes from the Ancient Greek word "μισθός" (misthós), which means "wage" or "payment."
+
+Grammar: In Greek, "μισθός" is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: μισθός (misthós) - the subject of a sentence
+- Genitive: μισθοῦ (misthoú) - shows possession or relationship
+- Accusative: μισθό (misthó) - the direct object of a verb
+- Vocative: μισθέ (misthé) - used for direct address
+
+Plural:
+- Nominative: μισθοί (misthoí) - the subject of a sentence
+- Genitive: μισθῶν (misthôn) - shows possession or relationship
+- Accusative: μισθούς (misthoús) - the direct object of a verb
+- Vocative: μισθοί (misthoí) - used for direct address
+
+Description: "Μισθός" refers to the payment or wage received for work or services rendered. It is commonly used to describe the compensation given to employees for their labor. The term can also be used more broadly to refer to any form of remuneration or reward.

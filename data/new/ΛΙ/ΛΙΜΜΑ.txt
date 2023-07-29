@@ -1,0 +1,5 @@
+Etymology: The word "λίμμα" (limma) comes from the Greek language. It is derived from the verb "λίμνη" (limni), which means "to collect" or "to gather."
+
+Grammar: In Greek, "λίμμα" is a neuter noun. It belongs to the second declension and has the plural form "λίμματα" (limmata).
+
+Description: "Λίμμα" is a term used in various contexts. In general, it refers to a collection or a gathering of things. It can also be used to describe a sum or a total. In mathematics, "λίμμα" specifically refers to the limit of a sequence or a function.

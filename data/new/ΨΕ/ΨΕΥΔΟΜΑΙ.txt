@@ -1,0 +1,10 @@
+Etymology: The word "ψευδομαι" (pronounced "psevdomai") comes from the Greek language. It is derived from the root word "ψευδος" (pseudos), which means "false" or "deceptive."
+
+Grammar: "Ψευδομαι" is a verb in the Greek language. It belongs to the first conjugation class and is conjugated in the present tense as follows:
+
+- Singular: ψεύδομαι (psevdomai) - I deceive
+- Plural: ψεύδεσθε (psevdesthe) - You (plural) deceive
+- Singular: ψεύδεται (psevdetai) - He/she/it deceives
+- Plural: ψεύδονται (psevdontai) - They deceive
+
+Description: "Ψευδομαι" is a Greek verb that means "to deceive" or "to lie." It is used to describe the act of intentionally giving false information or misleading someone.

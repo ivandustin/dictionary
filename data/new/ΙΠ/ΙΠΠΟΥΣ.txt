@@ -1,0 +1,19 @@
+Etymology: The word "ιππος" (ippos) comes from the Ancient Greek language. It is derived from the Proto-Indo-European root *ekwo- meaning "horse."
+
+Grammar: In Greek, "ιππος" (ippos) is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: ιππος (ippos) - horse
+- Genitive: ιππου (ippou) - of a horse
+- Dative: ιππῳ (ippō) - to/for a horse
+- Accusative: ιππον (ippon) - horse
+- Vocative: ιππε (ippe) - O horse
+
+Plural:
+- Nominative: ιπποι (ippoi) - horses
+- Genitive: ιππων (ippōn) - of horses
+- Dative: ιπποις (ippois) - to/for horses
+- Accusative: ιππους (ippous) - horses
+- Vocative: ιπποι (ippoi) - O horses
+
+Description: "Ιππος" (ippos) is the Greek word for "horse." It refers to a large, four-legged mammal with a flowing mane and tail, often used for riding, racing, or pulling vehicles. Horses have been domesticated for thousands of years and have played a significant role in human history and culture.

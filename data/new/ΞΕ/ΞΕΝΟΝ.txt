@@ -1,0 +1,17 @@
+Etymology: The word "ξενον" (xenon) comes from the Greek word "ξένος" (xenos), meaning "foreigner" or "stranger". It is derived from the Proto-Indo-European root *gʰes- which means "stranger" or "guest".
+
+Grammar: In Greek, "ξενον" (xenon) is a noun in the neuter gender. It is declined as follows:
+
+Singular:
+- Nominative: ξενον (xenon)
+- Genitive: ξενου (xenou)
+- Accusative: ξενον (xenon)
+- Vocative: ξενον (xenon)
+
+Plural:
+- Nominative: ξενα (xena)
+- Genitive: ξενων (xenon)
+- Accusative: ξενα (xena)
+- Vocative: ξενα (xena)
+
+Description: "ξενον" (xenon) refers to a foreigner or a stranger. It can also be used to describe something that is unfamiliar or unknown.

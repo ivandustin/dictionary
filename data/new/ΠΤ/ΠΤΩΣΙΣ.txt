@@ -1,0 +1,19 @@
+Etymology: The word "πτωσις" (ptosis) comes from the Greek verb "πίπτω" (pipto), which means "to fall" or "to drop". It is derived from the Proto-Indo-European root *pet-, meaning "to fall".
+
+Grammar: In Greek, "πτωσις" is a feminine noun of the third declension. It is declined as follows:
+
+Singular:
+- Nominative: η πτωσις (i ptosis) 
+- Genitive: της πτωσεως (tis ptoseos)
+- Dative: τη πτωσει (ti ptosi)
+- Accusative: την πτωσιν (tin ptosin)
+- Vocative: ω πτωσις (o ptosis)
+
+Plural:
+- Nominative: οι πτωσεις (i ptoseis)
+- Genitive: των πτωσεων (ton ptoseon)
+- Dative: ταις πτωσεσι (tes ptosisis)
+- Accusative: τας πτωσεις (tas ptoseis)
+- Vocative: αι πτωσεις (e ptoseis)
+
+Description: "Πτωσις" is a Greek word that means "fall" or "dropping". It can be used in various contexts, such as describing the act of falling or dropping, or metaphorically referring to a decline or downfall. In grammar, "πτωσις" is also used to refer to the inflection or declension of nouns, adjectives, and pronouns.

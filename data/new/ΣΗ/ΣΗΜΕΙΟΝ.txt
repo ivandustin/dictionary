@@ -1,0 +1,5 @@
+Etymology: The word "σημείον" (sēmeion) comes from the Greek language. It is derived from the verb "σημαίνω" (sēmainō), which means "to signify" or "to indicate."
+
+Grammar: In Greek, "σημείον" is a neuter noun. It belongs to the second declension and has the plural form "σημεῖα" (sēmeia).
+
+Description: "Σημείον" is commonly translated as "sign" or "symbol" in English. It refers to a visible or audible object, gesture, or event that represents or communicates something. It can also denote a mark, indication, or point of reference. In mathematics, "σημείον" is used to describe a point in space or on a graph.

@@ -1,0 +1,17 @@
+Etymology: The word "γραμματεύς" (grammateús) comes from the Greek root "γράμμα" (grámma), meaning "letter" or "writing," and the suffix "-εύς" (-eús), which denotes a profession or occupation. Therefore, "γραμματεύς" can be translated as "scribe" or "secretary."
+
+Grammar: In Greek, "γραμματεύς" is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: γραμματεύς (grammateús) - the subject of a sentence.
+- Genitive: γραμματέως (grammatéos) - indicates possession or origin.
+- Dative: γραμματεί (grammateí) - indicates the indirect object.
+- Accusative: γραμματέα (grammatéa) - indicates the direct object.
+
+Plural:
+- Nominative: γραμματεῖς (grammateîs) - the subject of a sentence.
+- Genitive: γραμματέων (grammatéon) - indicates possession or origin.
+- Dative: γραμματεῦσι(ν) (grammateûsi(n)) - indicates the indirect object.
+- Accusative: γραμματεῖς (grammateîs) - indicates the direct object.
+
+Description: A "γραμματεύς" is a person who is skilled in reading, writing, and recording information. In ancient Greece, they were responsible for various administrative tasks, such as keeping records, drafting documents, and handling correspondence. They played a crucial role in maintaining written records and facilitating communication in both public and private settings.

@@ -1,0 +1,17 @@
+Etymology: The word "εθνος" (ethnos) comes from the Ancient Greek language. It is derived from the verb "ἔθνος" (ethnos), which means "nation" or "people".
+
+Grammar: In Greek, "εθνος" is a noun of neuter gender. It is declined as follows:
+
+Singular:
+- Nominative: εθνος (ethnos)
+- Genitive: εθνους (ethnous)
+- Accusative: εθνος (ethnos)
+- Vocative: εθνος (ethnos)
+
+Plural:
+- Nominative: εθνη (ethni)
+- Genitive: εθνων (ethnon)
+- Accusative: εθνη (ethni)
+- Vocative: εθνη (ethni)
+
+Description: "Εθνος" is a Greek word that refers to a nation or a people. It can also be used to describe a group of people who share a common culture, language, or history. In a broader sense, it can refer to the concept of nationality or ethnicity.

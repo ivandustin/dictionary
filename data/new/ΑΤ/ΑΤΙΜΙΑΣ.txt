@@ -1,0 +1,5 @@
+Etymology: The word "ατομιας" comes from the Greek word "ατομος" (atomos), which means "indivisible" or "uncuttable". It is derived from the prefix "α-" (a-), meaning "not", and the root "τομος" (tomos), meaning "cut". 
+
+Grammar: "ατομιας" is a noun in the genitive case in Greek. It is the genitive form of the noun "ατομια" (atomia), which means "atom" or "atomicity". In Greek grammar, the genitive case is used to indicate possession, origin, or relationship.
+
+Description: "ατομιας" refers to the concept of atomicity or the state of being composed of atoms. In the context of physics and chemistry, it specifically refers to the indivisible nature of atoms, which are the basic building blocks of matter. The concept of atomicity is fundamental to understanding the structure and behavior of matter at the atomic level.

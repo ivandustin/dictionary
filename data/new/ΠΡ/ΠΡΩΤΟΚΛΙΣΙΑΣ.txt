@@ -1,0 +1,5 @@
+Etymology: The word "πρωτοκλισίας" comes from the Greek words "πρώτος" (prótos) meaning "first" and "κλίση" (klísi) meaning "declension". 
+
+Grammar: "Πρωτοκλισίας" is a noun in the genitive case, singular number, masculine gender. It is derived from the noun "πρωτοκλίσιο" (prótoklísio), which means "first declension". In Greek grammar, nouns are classified into different declensions based on their endings and patterns of inflection. The first declension includes nouns that end in -ας (-as) in the genitive case.
+
+Description: "Πρωτοκλισίας" refers to the first declension in Greek grammar. It is used to describe the specific group of nouns that follow the same pattern of inflection as the noun "πρωτοκλίσιο". Nouns in the first declension typically have a stem ending in -α (-a) and undergo specific changes in their endings depending on the case, number, and gender.

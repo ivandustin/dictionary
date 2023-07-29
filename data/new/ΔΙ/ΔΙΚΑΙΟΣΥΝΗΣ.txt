@@ -1,0 +1,17 @@
+Etymology: The word "δικαιοσύνης" (dikaiosýnis) comes from the Greek root "δίκαιος" (díkaios), meaning "just" or "righteous." It is derived from the noun "δίκη" (díkē), which means "justice" or "righteousness."
+
+Grammar: "Δικαιοσύνης" is the genitive form of the noun "δικαιοσύνη" (dikaiosýni), which is a feminine noun in Greek. It belongs to the second declension and is declined as follows:
+
+Singular:
+- Nominative: δικαιοσύνη (dikaiosýni) - justice
+- Genitive: δικαιοσύνης (dikaiosýnis) - of justice
+- Accusative: δικαιοσύνην (dikaiosýnin) - justice
+- Vocative: δικαιοσύνη (dikaiosýni) - O justice!
+
+Plural:
+- Nominative: δικαιοσύνες (dikaiosýnes) - justices
+- Genitive: δικαιοσύνων (dikaiosýnon) - of justices
+- Accusative: δικαιοσύνες (dikaiosýnes) - justices
+- Vocative: δικαιοσύνες (dikaiosýnes) - O justices!
+
+Description: "Δικαιοσύνης" is a Greek noun that translates to "justice" or "righteousness" in English. It refers to the quality or state of being just, fair, or morally right. In Greek philosophy and ethics, "δικαιοσύνης" is often associated with the concept of moral virtue and the proper balance between rights and responsibilities. It is a fundamental principle in many legal and ethical systems.

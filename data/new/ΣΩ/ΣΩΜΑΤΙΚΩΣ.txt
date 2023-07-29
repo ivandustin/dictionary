@@ -1,0 +1,5 @@
+Etymology: The word "σωματικός" (sōmatikos) comes from the Greek word "σῶμα" (sōma), meaning "body". It is derived from the Proto-Indo-European root *som-, which means "together" or "whole".
+
+Grammar: In Greek, "σωματικός" is an adjective that agrees in gender, number, and case with the noun it modifies. It has three forms: masculine, feminine, and neuter. For example, "σωματικός άνδρας" (sōmatikós ándras) means "physical man", while "σωματική γυναίκα" (sōmatikí gynaíka) means "physical woman".
+
+Description: "Σωματικός" is an adjective that describes something related to the body or physical aspects. It can refer to physical characteristics, bodily functions, or activities involving the body. It is often used in medical, scientific, or philosophical contexts to discuss physical aspects of human or animal life.

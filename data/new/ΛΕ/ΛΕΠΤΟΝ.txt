@@ -1,0 +1,5 @@
+Etymology: The word "λεπτόν" (lepton) comes from the Greek word "λεπτός" (leptos), meaning "thin" or "fine."
+
+Grammar: In Greek, "λεπτόν" is a neuter noun in the singular form. It belongs to the second declension and has the genitive form "λεπτού" (leptou).
+
+Description: "Λεπτόν" is a term used in physics to refer to a type of elementary particle. It is one of the fundamental particles in the Standard Model of particle physics. Leptons are characterized by their small mass and lack of strong interaction. Examples of leptons include electrons, muons, and neutrinos.

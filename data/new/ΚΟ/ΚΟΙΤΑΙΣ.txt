@@ -1,0 +1,17 @@
+Etymology: The word "κοιταίς" comes from the Greek word "κοίτη" (koíti), which means "bed" or "couch". It is derived from the verb "κείμαι" (keímai), meaning "to lie down" or "to recline".
+
+Grammar: "Κοιταίς" is the plural form of the noun "κοίτη" (koíti), which is a feminine noun in Greek. It belongs to the second declension and is declined as follows:
+
+Singular:
+- Nominative: η κοίτη (i koíti) - the bed
+- Genitive: της κοίτης (tis koítis) - of the bed
+- Accusative: την κοίτη (tin koíti) - the bed
+- Vocative: κοίτη (koíti) - O bed!
+
+Plural:
+- Nominative: οι κοίτες (i koítes) - the beds
+- Genitive: των κοιτών (ton koitón) - of the beds
+- Accusative: τις κοίτες (tis koítes) - the beds
+- Vocative: κοίτες (koítes) - O beds!
+
+Description: "Κοιταίς" refers to beds in Greek. It is used to describe multiple beds or a specific group of beds.

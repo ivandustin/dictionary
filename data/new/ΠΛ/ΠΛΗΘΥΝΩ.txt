@@ -1,0 +1,5 @@
+Etymology: The word "πληθύνω" (plēthýnō) comes from the Greek root "πληθυντικός" (plēthynikós), which means "plural." 
+
+Grammar: "Πληθύνω" is a verb in the Greek language. It belongs to the first conjugation class and is conjugated in the present tense as follows: εγώ πληθύνω (egó plēthýnō) - I pluralize, εσύ πληθύνεις (esý plēthýneis) - you pluralize, αυτός/αυτή/αυτό πληθύνει (afós/afí/afó plēthýnei) - he/she/it pluralizes, εμείς πληθύνουμε (emeís plēthýnoume) - we pluralize, εσείς πληθύνετε (eséis plēthýnete) - you pluralize, αυτοί/αυτές πληθύνουν (afí/afé plēthýnoun) - they pluralize.
+
+Description: The verb "πληθύνω" means "to pluralize" or "to make something plural" in Greek. It is used when referring to the act of making a singular noun or pronoun into a plural form.

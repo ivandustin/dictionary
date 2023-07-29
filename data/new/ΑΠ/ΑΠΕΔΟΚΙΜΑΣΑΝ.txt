@@ -1,0 +1,8 @@
+Etymology: The word "απεδοκιμασαν" comes from the Greek verb "αποδοκιμάζω" (apodokimazo), which means "to reject" or "to disapprove". It is derived from the prefix "απο-" (apo-), meaning "away" or "from", and the verb "δοκιμάζω" (dokimazo), meaning "to test" or "to examine".
+
+Grammar: "απεδοκιμασαν" is the third person plural form of the verb "αποδοκιμάζω" in the past tense. It is in the indicative mood and the aorist tense. The verb is conjugated as follows:
+
+- Present tense: αποδοκιμάζω (I reject), αποδοκιμάζεις (you reject), αποδοκιμάζει (he/she/it rejects), αποδοκιμάζουμε (we reject), αποδοκιμάζετε (you reject), αποδοκιμάζουν (they reject)
+- Past tense: απεδοκίμασα (I rejected), απεδοκίμασες (you rejected), απεδοκίμασε (he/she/it rejected), απεδοκιμάσαμε (we rejected), απεδοκιμάσατε (you rejected), απεδοκίμασαν (they rejected)
+
+Description: "απεδοκιμασαν" is the past tense form of the verb "αποδοκιμάζω" in Greek. It indicates that a group of people (third person plural) rejected or disapproved of something in the past.

@@ -1,0 +1,17 @@
+Etymology: The word "προσευχή" (proseuchē) comes from the Greek verb "προσεύχομαι" (proseuchomai), which means "to pray" or "to make a request." It is derived from the combination of the preposition "πρός" (pros), meaning "towards," and the verb "εὔχομαι" (euchomai), meaning "to wish" or "to pray."
+
+Grammar: In Greek, "προσευχή" is a feminine noun of the first declension. It is declined as follows:
+
+Singular:
+- Nominative: η προσευχή (i proseuchē) - the prayer
+- Genitive: της προσευχής (tēs proseuchēs) - of the prayer
+- Dative: τη προσευχή (tē proseuchē) - to/for the prayer
+- Accusative: την προσευχή (tēn proseuchē) - the prayer
+
+Plural:
+- Nominative: οι προσευχές (oi proseuches) - the prayers
+- Genitive: των προσευχών (tōn proseuchōn) - of the prayers
+- Dative: τοις προσευχαίς (tois proseuchais) - to/for the prayers
+- Accusative: τις προσευχές (tis proseuches) - the prayers
+
+Description: "Προσευχή" is a Greek word that translates to "prayer" in English. It refers to a solemn request or expression of devotion, typically addressed to a deity or a higher power. Prayer is an important aspect of many religious and spiritual practices, serving as a means of communication, worship, and seeking guidance or assistance. It can take various forms, including spoken or written words, meditation, or contemplation.

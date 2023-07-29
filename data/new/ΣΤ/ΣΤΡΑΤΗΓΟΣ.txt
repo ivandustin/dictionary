@@ -1,0 +1,19 @@
+Etymology: The word "στρατηγός" (stratēgós) comes from the Greek roots "στρατός" (stratós), meaning "army," and "ἄγω" (ágō), meaning "to lead." Therefore, "στρατηγός" can be translated as "army leader" or "general."
+
+Grammar: In Greek, "στρατηγός" is a masculine noun of the second declension. It is declined as follows:
+
+Singular:
+- Nominative: στρατηγός (stratēgós) - the subject of a sentence
+- Genitive: στρατηγοῦ (stratēgoû) - shows possession or origin
+- Dative: στρατηγῷ (stratēgôi) - indicates the indirect object
+- Accusative: στρατηγό (stratēgó) - indicates the direct object
+- Vocative: στρατηγέ (stratēgé) - used for direct address
+
+Plural:
+- Nominative: στρατηγοί (stratēgoí)
+- Genitive: στρατηγῶν (stratēgôn)
+- Dative: στρατηγοῖς (stratēgoîs)
+- Accusative: στρατηγούς (stratēgoús)
+- Vocative: στρατηγοί (stratēgoí)
+
+Description: "Στρατηγός" is a Greek word that refers to a military officer of high rank who is in charge of leading and commanding an army or military forces. In ancient Greece, the stratēgoí were responsible for planning and executing military strategies, as well as making important decisions during battles. The position of a stratēgos was highly respected and held significant political influence.

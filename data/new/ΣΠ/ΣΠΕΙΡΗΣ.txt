@@ -1,0 +1,19 @@
+Etymology: The word "σπείρης" (spéirēs) comes from the Greek verb "σπείρω" (speírō), which means "to sow" or "to scatter." It is derived from the Proto-Indo-European root *sper-, meaning "to strew" or "to scatter."
+
+Grammar: In Greek, "σπείρης" is a noun in the masculine gender. It belongs to the second declension and has the genitive form "σπείρητος" (speírētos). It is declined as follows:
+
+Singular:
+- Nominative: σπείρης (spéirēs)
+- Genitive: σπείρητος (speírētos)
+- Dative: σπείρητι (speírēti)
+- Accusative: σπείρητα (speírēta)
+- Vocative: σπείρη (spéirē)
+
+Plural:
+- Nominative: σπείρητες (speírētes)
+- Genitive: σπείρητων (speírētōn)
+- Dative: σπείρησι(ν) (speírēsi(n))
+- Accusative: σπείρητας (speírētas)
+- Vocative: σπείρητες (speírētes)
+
+Description: "Σπείρης" is an ancient Greek word that refers to a sower or a scatterer. It is used to describe someone who scatters seeds in the ground for planting. In a metaphorical sense, it can also refer to someone who spreads or disseminates something, such as ideas or information.

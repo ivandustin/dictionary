@@ -1,0 +1,5 @@
+Etymology: The word "κλειδα" (klida) comes from the Greek word "κλείδα" (kleida), which means "key". It is derived from the Proto-Indo-European root *klei-, meaning "to close" or "to shut".
+
+Grammar: "Κλειδα" is a noun in the Greek language. It is a feminine noun and belongs to the second declension. In the singular form, it is declined as follows: η κλειδα (i klida) - nominative case, την κλειδα (tin klida) - accusative case, της κλειδας (tis klidas) - genitive case, την κλειδα (tin klida) - vocative case. In the plural form, it is declined as follows: οι κλειδες (i klides) - nominative case, τις κλειδες (tis klides) - accusative case, των κλειδων (ton klidon) - genitive case, οι κλειδες (i klides) - vocative case.
+
+Description: "Κλειδα" refers to a key, which is a small metal object used to unlock or lock doors, locks, or other devices. It is typically made of metal and has a unique shape that matches the lock it is designed to open. Keys are essential for providing security and access control.

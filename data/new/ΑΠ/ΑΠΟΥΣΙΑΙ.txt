@@ -1,0 +1,17 @@
+Etymology: The word "απουσιαί" comes from the Greek word "απουσία" (apousía), which means "absence" or "lack". 
+
+Grammar: "απουσιαί" is the plural form of the noun "απουσιαί" (apousiá), which is a feminine noun in Greek. It belongs to the first declension and is declined as follows:
+
+Singular:
+- Nominative: η απουσία (i apousía) 
+- Genitive: της απουσίας (tis apousías)
+- Accusative: την απουσία (tin apousía)
+- Vocative: απουσία (apousía)
+
+Plural:
+- Nominative: οι απουσιαί (i apousié)
+- Genitive: των απουσιών (ton apousión)
+- Accusative: τις απουσιαίς (tis apousiés)
+- Vocative: απουσιαί (apousié)
+
+Description: "απουσιαί" refers to absences or lacks in a plural sense. It can be used to describe multiple instances of absence or lack in various contexts.
