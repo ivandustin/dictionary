@@ -1,0 +1,12 @@
+Etymology: The word "אקבץ" (akbats) is derived from the Hebrew root קבץ (k-b-ts), which means "to gather" or "to collect."
+
+Grammar: אקבץ is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲקַבֵּץ (a-kavets) - I gather
+- תְּקַבֵּץ (te-kavets) - you gather (singular)
+- יְקַבֵּץ (ye-kavets) - he gathers
+- תְּקַבְּצִי (te-kavetsi) - you gather (feminine singular)
+- נְקַבֵּץ (ne-kavets) - we gather
+- תְּקַבְּצוּ (te-kavetsu) - you gather (plural)
+- יְקַבְּצוּ (ye-kavetsu) - they gather
+
+Description: אקבץ is used to describe the action of gathering or collecting things together. It can be used in various contexts, such as gathering people, objects, or ideas.

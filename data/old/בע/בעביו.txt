@@ -1,0 +1,5 @@
+Etymology: The word "בְּעֳבִיו" (pronounced "be'ovi") is a Hebrew word that comes from the root עבה (pronounced "avah"), which means "thick" or "dense". 
+
+Grammar: "בְּעֳבִיו" is a prepositional phrase in Hebrew. The prefix בְּ (pronounced "be") means "in" or "with", and עֳבִיו (pronounced "ovi") is the construct form of the noun עֹב (pronounced "ov"), which means "cloud". Together, the phrase means "in the cloud" or "with the cloud".
+
+Description: "בְּעֳבִיו" is used in Hebrew to describe something that is happening or being done in a cloud-based environment. It can refer to activities or services that are performed using cloud computing technology, where data and applications are stored and accessed over the internet instead of on a local computer or server.

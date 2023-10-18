@@ -1,0 +1,19 @@
+Etymology: The word "דוה" (doh) comes from the Hebrew language. It is derived from the root ד.ו.ה (d.w.h), which means "to be sick" or "to be ill."
+
+Grammar: "דוה" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי דוֹה (ani doh) - I am sick
+  - אַתָּה דוֹה (atah doh) - You (masculine singular) are sick
+  - אַתְּ דוֹה (at doh) - You (feminine singular) are sick
+  - הוּא דוֹה (hu doh) - He is sick
+  - הִיא דוֹה (hi doh) - She is sick
+
+- Plural:
+  - אֲנַחְנוּ דוֹהִים (anachnu dohim) - We are sick
+  - אַתֶּם דוֹהִים (atem dohim) - You (masculine plural) are sick
+  - אַתֶּן דוֹהוֹת (aten dohot) - You (feminine plural) are sick
+  - הֵם דוֹהִים (hem dohim) - They (masculine) are sick
+  - הֵן דוֹהוֹת (hen dohot) - They (feminine) are sick
+
+Description: The word "דוה" is used to describe the state of being sick or ill. It can refer to physical or mental illness.

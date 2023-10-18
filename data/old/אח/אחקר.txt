@@ -1,0 +1,15 @@
+Etymology: The word "אחקר" (pronounced "ahkar") is a Hebrew word that comes from the root חקר, which means "to investigate" or "to examine."
+
+Grammar: אחקר is a verb in the Hebrew language. It is conjugated in the present tense as follows:
+- אני אחקר (ani ahkar) - I investigate
+- אתה אחקר (atah ahkar) - You investigate (masculine singular)
+- את אחקרת (at ahkarat) - You investigate (feminine singular)
+- הוא אחקר (hu ahkar) - He investigates
+- היא אחקרת (hi ahkarat) - She investigates
+- אנחנו אחקרים (anachnu ahkarim) - We investigate
+- אתם אחקרים (atem ahkarim) - You investigate (masculine plural)
+- אתן אחקרות (aten ahkarot) - You investigate (feminine plural)
+- הם אחקרים (hem ahkarim) - They investigate (masculine)
+- הן אחקרות (hen ahkarot) - They investigate (feminine)
+
+Description: אחקר means "to investigate" or "to examine" in Hebrew. It is used to describe the act of thoroughly examining or researching a subject or topic. It can be used in various contexts, such as scientific research, detective work, or simply exploring and learning about something in depth.

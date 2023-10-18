@@ -1,0 +1,15 @@
+Etymology: The word "גרל" (pronounced "gerel") comes from the Hebrew language. It is derived from the root letters ג-ר-ל, which means "to draw lots" or "to cast lots." In ancient times, casting lots was a common method used to make decisions or determine outcomes.
+
+Grammar: "גרל" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי גוֹרֵל (ani gorel) - I draw lots
+- אַתָּה גוֹרֵל (atah gorel) - You (masculine singular) draw lots
+- אַתְּ גוֹרֶלֶת (at gorelet) - You (feminine singular) draw lots
+- הוּא גוֹרֵל (hu gorel) - He draws lots
+- הִיא גוֹרֶלֶת (hi gorelet) - She draws lots
+- אֲנַחְנוּ גוֹרְלִים (anachnu gorlim) - We draw lots
+- אַתֶּם גוֹרְלִים (atem gorlim) - You (masculine plural) draw lots
+- אַתֶּן גוֹרְלוֹת (aten gorlot) - You (feminine plural) draw lots
+- הֵם גוֹרְלִים (hem gorlim) - They draw lots
+- הֵן גוֹרְלוֹת (hen gorlot) - They (feminine) draw lots
+
+Description: The verb "גרל" is used to describe the action of drawing lots or casting lots. It can be used in various contexts, such as in games of chance, decision-making processes, or random selection. The word can also be used metaphorically to describe situations where outcomes are uncertain or left to chance.

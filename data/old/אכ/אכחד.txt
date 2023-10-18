@@ -1,0 +1,15 @@
+Etymology: The word "אכחד" (pronounced "akhad") comes from the Hebrew language. It is derived from the root כ-ח-ד (khet-chet-dalet), which means "to hide" or "to conceal."
+
+Grammar: אכחד is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲכַחֵד (a-kha-khed) - I hide
+- אַתָּה מַכְחִיד (a-ta mak-khid) - You (masculine) hide
+- אַתְּ מַכְחֶדֶת (a-te mak-khe-det) - You (feminine) hide
+- הוּא מַכְחִיד (hu mak-khid) - He hides
+- הִיא מַכְחֶדֶת (hi mak-khe-det) - She hides
+- אֲנַחְנוּ מַכְחִידִים (a-na-khnu mak-khi-dim) - We hide
+- אַתֶּם מַכְחִידִים (a-tem mak-khi-dim) - You (masculine plural) hide
+- אַתְּן מַכְחֶדֶת (a-ten mak-khe-det) - You (feminine plural) hide
+- הֵם מַכְחִידִים (hem mak-khi-dim) - They (masculine) hide
+- הֵן מַכְחֶדֶת (hen mak-khe-det) - They (feminine) hide
+
+Description: אכחד means "to hide" or "to conceal" in Hebrew. It can refer to physically hiding an object or concealing information or emotions.

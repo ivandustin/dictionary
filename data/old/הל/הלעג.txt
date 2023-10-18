@@ -1,0 +1,15 @@
+Etymology: The word "הלעג" (pronounced "halag" in Hebrew) comes from the root לעג, which means to mock or ridicule. It is derived from the Hebrew noun לעגה, which means mockery or derision.
+
+Grammar: הלעג is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי מַלְעִיג (ani mal'ig) - I mock
+- אַתָּה מַלְעִיג (atah mal'ig) - You (singular, masculine) mock
+- אַתְּ מַלְעֶגֶת (at mal'egat) - You (singular, feminine) mock
+- הוּא מַלְעִיג (hu mal'ig) - He mocks
+- הִיא מַלְעֶגֶת (hi mal'egat) - She mocks
+- אֲנַחְנוּ מַלְעִיגִים (anachnu mal'igim) - We mock
+- אַתֶּם מַלְעִיגִים (atem mal'igim) - You (plural, masculine) mock
+- אַתֶּן מַלְעֶגּוֹת (aten mal'egot) - You (plural, feminine) mock
+- הֵם מַלְעִיגִים (hem mal'igim) - They (masculine) mock
+- הֵן מַלְעֶגוֹת (hen mal'egot) - They (feminine) mock
+
+Description: הלעג is a verb that describes the act of mocking or ridiculing someone or something. It is often used to express contempt, scorn, or derision towards a person, idea, or situation.

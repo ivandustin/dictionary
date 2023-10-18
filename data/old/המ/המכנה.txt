@@ -1,0 +1,5 @@
+Etymology: The word "המכנה" (HaMakneh) is a Hebrew word that means "the denominator" in English. It is derived from the Hebrew root כ-נ-ה (K-N-H), which means "to count" or "to reckon."
+
+Grammar: "המכנה" is a noun in Hebrew and is used to refer to the bottom number in a fraction. It is the number that represents the total number of equal parts into which a whole is divided.
+
+Description: In mathematics, a fraction consists of two numbers: the numerator and the denominator. The numerator represents the number of equal parts being considered, while the denominator represents the total number of equal parts into which the whole is divided. The denominator is usually written below the line in a fraction.
