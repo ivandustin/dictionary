@@ -1,0 +1,16 @@
+Etymology: The word "התיו" (hityav) is a Hebrew verb that comes from the root יו"ו (yud-vav-vav), which means "to respond" or "to answer."
+
+Grammar: "התיו" is a reflexive verb in Hebrew, which means that the subject of the verb is also the object. It is conjugated in the present tense as follows:
+
+- אני מִתְיַוֶּה (ani mityaveh) - I respond
+- אתה מִתְיַוֶּה (atah mityaveh) - You respond (masculine singular)
+- את מִתְיַוֶּה (at mityaveh) - You respond (feminine singular)
+- הוא מִתְיַוֶּה (hu mityaveh) - He responds
+- היא מִתְיַוֶּה (hi mityaveh) - She responds
+- אנחנו מִתְיַוִּים (anachnu mityavim) - We respond
+- אתם מִתְיַוִּים (atem mityavim) - You respond (masculine plural)
+- אתן מִתְיַוִּים (atan mityavot) - You respond (feminine plural)
+- הם מִתְיַוִּים (hem mityavim) - They respond (masculine plural)
+- הן מִתְיַוִּים (hen mityavot) - They respond (feminine plural)
+
+Description: "התיו" is a verb that is used to describe the action of responding or answering. It can be used in various contexts, such as responding to a question, a request, or a statement.

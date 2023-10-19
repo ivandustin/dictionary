@@ -1,0 +1,5 @@
+Etymology: The word "הַנְקְדוּת" (HaNekudot) is a Hebrew word that means "the vowels." It is derived from the root נקד (N-K-D), which means "to punctuate" or "to mark."
+
+Grammar: In Hebrew, the vowels are represented by a system of diacritical marks called "נְקֻדוֹת" (Nekudot). These marks are used to indicate the pronunciation of the consonants and to clarify the vowel sounds in the Hebrew language. The Hebrew alphabet originally consisted only of consonants, and the vowel marks were added later to aid in pronunciation.
+
+Description: The Hebrew language is written using an abjad script, which means that only the consonants are represented in writing. The vowel marks, or nekudot, are used to indicate the vowel sounds that accompany the consonants. There are several different types of nekudot, including dots, lines, and other symbols, which are placed above, below, or inside the consonant letters. The nekudot are essential for proper pronunciation and understanding of the Hebrew text.

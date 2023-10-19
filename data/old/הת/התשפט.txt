@@ -1,0 +1,16 @@
+Etymology: The word "התשפט" (hithsapeṭ) is a Hebrew verb derived from the root שפט (sh.p.t), which means "to judge" or "to rule." The prefix ה (h) indicates the reflexive form of the verb, meaning "to judge oneself" or "to make a judgment about oneself."
+
+Grammar: "התשפט" is a reflexive verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- אני מִתְשַׁפֵּט (ani mitshappeṭ) - I judge myself
+- אתה מִתְשַׁפֵּט (atah mitshappeṭ) - You judge yourself (masculine singular)
+- את מִתְשַׁפֶּטֶת (at mitshappet) - You judge yourself (feminine singular)
+- הוא מִתְשַׁפֵּט (hu mitshappeṭ) - He judges himself
+- היא מִתְשַׁפֶּטֶת (hi mitshappet) - She judges herself
+- אנחנו מִתְשַׁפְּטִים (anachnu mitshappeṭim) - We judge ourselves
+- אתם מִתְשַׁפְּטִים (atem mitshappeṭim) - You judge yourselves (masculine plural)
+- אתן מִתְשַׁפְּטוֹת (atan mitshappetot) - You judge yourselves (feminine plural)
+- הם מִתְשַׁפְּטִים (hem mitshappeṭim) - They judge themselves (masculine plural)
+- הן מִתְשַׁפְּטוֹת (hen mitshappetot) - They judge themselves (feminine plural)
+
+Description: The verb "התשפט" is used to express the act of judging oneself or making a personal judgment. It can refer to evaluating one's own actions, thoughts, or decisions. This verb is often used in a reflective or introspective context, indicating self-reflection and self-assessment.

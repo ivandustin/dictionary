@@ -1,0 +1,5 @@
+Etymology: The word "הנתונים" (HaNetunim) is a Hebrew word that means "the data" in English. It is derived from the Hebrew root נ.ת.נ (N.T.N), which means "to give" or "to provide".
+
+Grammar: "הנתונים" (HaNetunim) is a plural noun in Hebrew. It is formed by adding the suffix ים (-im) to the singular form of the word. In this case, the singular form is נתון (netun), which means "data" or "information".
+
+Description: "הנתונים" (HaNetunim) refers to a collection of facts, statistics, or information that is used for analysis, research, or decision-making purposes. It can include numerical data, textual information, or any other form of structured or unstructured data. In modern times, with the advancement of technology and the internet, the term "הנתונים" (HaNetunim) has become increasingly important in various fields, such as science, business, and technology, as it plays a crucial role in understanding patterns, trends, and insights.

@@ -1,0 +1,5 @@
+Etymology: The word "התיחש" (hityahash) is a Hebrew verb derived from the root י.ח.ש (y.ch.sh), which means "to calculate" or "to reckon." It is formed by adding the prefix ה (ha) which indicates the reflexive form of the verb.
+
+Grammar: התיחש (hityahash) is a reflexive verb in the Hebrew language. It is conjugated in various tenses and forms to match the subject of the sentence. In the present tense, for example, it can be conjugated as follows: אני מתיחש (ani mityahash) - I calculate, אתה מתיחש (atah mityahash) - you calculate (masculine), את מתיחשת (at mityahasht) - you calculate (feminine), הוא/היא מתיחש (hu/hi mityahash) - he/she calculates, etc.
+
+Description: התיחש (hityahash) is a verb that means "to calculate" or "to reckon" in Hebrew. It is used to describe the act of performing mathematical calculations or estimating quantities. It can also be used metaphorically to refer to the process of considering or evaluating something in a thoughtful or deliberate manner.

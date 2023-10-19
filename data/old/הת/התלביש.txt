@@ -1,0 +1,13 @@
+Etymology: The word "התלביש" (Ha'talbish) is a Hebrew verb that comes from the root לבש (lavash), which means "to dress" or "to clothe". The prefix ה (ha) indicates the third person singular masculine form of the verb.
+
+Grammar: "התלביש" is a reflexive verb in Hebrew, which means that the subject of the verb is also the object. It is conjugated in the present tense as follows:
+- אני מתלבש (ani mitlabesh) - I dress
+- אתה מתלבש (atah mitlabesh) - You dress (masculine singular)
+- הוא מתלבש (hu mitlabesh) - He dresses
+- היא מתלבשת (hi mitlabesht) - She dresses
+- אנחנו מתלבשים (anachnu mitlabeshim) - We dress
+- אתם מתלבשים (atem mitlabeshim) - You dress (masculine plural)
+- הם מתלבשים (hem mitlabeshim) - They dress (masculine)
+- הן מתלבשות (hen mitlabeshot) - They dress (feminine)
+
+Description: "התלביש" is a verb that describes the action of dressing oneself or someone else. It can refer to putting on clothes or garments.
