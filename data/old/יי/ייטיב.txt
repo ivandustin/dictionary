@@ -1,0 +1,19 @@
+Etymology: The word "יטיב" (pronounced "yitiv" in Hebrew) is derived from the Hebrew root טב (tav-bet), which means "good" or "pleasant." It is related to the word טוב (tov), which also means "good."
+
+Grammar: "יטיב" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי יוֹטֵב (ani yotev) - I am good
+  - אַתָּה יוֹטֵב (atah yotev) - You (masculine singular) are good
+  - אַתְּ יוֹטֶבֶת (at yotevet) - You (feminine singular) are good
+  - הוּא יוֹטֵב (hu yotev) - He is good
+  - הִיא יוֹטֶבֶת (hi yotevet) - She is good
+
+- Plural:
+  - אֲנַחְנוּ יוֹטְבִים (anachnu yotvim) - We are good
+  - אַתֶּם יוֹטְבִים (atem yotvim) - You (masculine plural) are good
+  - אַתֶּן יוֹטְבוֹת (aten yotvot) - You (feminine plural) are good
+  - הֵם יוֹטְבִים (hem yotvim) - They (masculine) are good
+  - הֵן יוֹטְבוֹת (hen yotvot) - They (feminine) are good
+
+Description: The word "יטיב" is used to describe someone or something as good, pleasant, or well-behaved. It can also be used to express approval or satisfaction.

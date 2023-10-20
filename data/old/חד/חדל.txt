@@ -1,0 +1,10 @@
+Etymology: The word "חֳדֵל" (chodel) comes from the Hebrew root חדל (ch.d.l), which means "to cease" or "to stop."
+
+Grammar: "חֳדֵל" is a verb in the Hebrew language. It is conjugated in the present tense as follows:
+- Singular: אֲנִי חוֹדֵל (ani chodel) - I cease
+- Masculine singular: אַתָּה חוֹדֵל (ata chodel) - You (masculine) cease
+- Feminine singular: אַתְּ חוֹדֶלֶת (at chodelet) - You (feminine) cease
+- Masculine plural: אַתֶּם חוֹדְלִים (atem chodlim) - You (masculine plural) cease
+- Feminine plural: אַתֶּן חוֹדְלוֹת (aten chodlot) - You (feminine plural) cease
+
+Description: "חֳדֵל" means "to cease" or "to stop" in Hebrew. It is used to describe the action of ending or discontinuing something.

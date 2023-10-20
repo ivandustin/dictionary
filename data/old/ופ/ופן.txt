@@ -1,0 +1,14 @@
+Etymology: The word "וֹפֵן" (vofen) comes from the Hebrew root פנה (pnh), which means "to turn" or "to face." It is derived from the noun פָּנִים (panim), meaning "face" or "front."
+
+Grammar: "וֹפֵן" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי ווֹפֵן (ani vofen) - I turn
+- Masculine singular: אַתָּה ווֹפֵן (atah vofen) - You (masculine) turn
+- Feminine singular: אַתְּ ווֹפֶנֶת (at vofenet) - You (feminine) turn
+- Masculine plural: אַתֶּם ווֹפְנִים (atem vofnim) - You (masculine plural) turn
+- Feminine plural: אַתֶּן ווֹפְנוֹת (aten vofnot) - You (feminine plural) turn
+- Masculine singular: הוּא ווֹפֵן (hu vofen) - He turns
+- Feminine singular: הִיא ווֹפֶנֶת (hi vofenet) - She turns
+- Masculine plural: הֵם ווֹפְנִים (hem vofnim) - They (masculine) turn
+- Feminine plural: הֵן ווֹפְנוֹת (hen vofnot) - They (feminine) turn
+
+Description: The word "וֹפֵן" is used to describe the action of turning or facing in Hebrew. It can refer to physically turning one's body or head, as well as metaphorically turning one's attention or focus towards something or someone.

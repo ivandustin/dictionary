@@ -1,0 +1,19 @@
+Etymology: The word "וְשָׁאַל" (v'sha'al) is a Hebrew verb that means "to ask" or "to inquire." It is derived from the root שאל (sh.a.l), which conveys the idea of seeking information or requesting something.
+
+Grammar: "וְשָׁאַל" is a verb in the Hebrew language. It belongs to the binyan Pa'al, which is the most common verb structure in Hebrew. It is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי שׁוֹאֵל (ani sho'el) - I ask
+  - אַתָּה שׁוֹאֵל (atah sho'el) - You ask (masculine singular)
+  - אַתְּ שׁוֹאֶלֶת (at sho'elet) - You ask (feminine singular)
+  - הוּא שׁוֹאֵל (hu sho'el) - He asks
+  - הִיא שׁוֹאֵלֶת (hi sho'elet) - She asks
+
+- Plural:
+  - אֲנַחְנוּ שׁוֹאְלִים (anachnu sho'alim) - We ask
+  - אַתֶּם שׁוֹאְלִים (atem sho'alim) - You ask (masculine plural)
+  - אַתֶּן שׁוֹאְלוֹת (aten sho'elot) - You ask (feminine plural)
+  - הֵם שׁוֹאְלִים (hem sho'alim) - They ask (masculine)
+  - הֵן שׁוֹאְלוֹת (hen sho'elot) - They ask (feminine)
+
+Description: The verb "וְשָׁאַל" is used to express the act of asking or inquiring about something. It can be used in various contexts, such as asking a question, seeking information, or requesting something from someone. The word can also be used metaphorically to convey the idea of seeking guidance or advice.

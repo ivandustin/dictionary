@@ -1,0 +1,15 @@
+Etymology: The word "חקור" (pronounced "hakor") comes from the Hebrew root ח.ק.ר, which means "to search" or "to investigate." It is derived from the Hebrew noun חֵקֶר (heker), meaning "research" or "examination."
+
+Grammar: "חקור" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי חוֹקֵר (ani hoker) - I search
+- אַתָּה חוֹקֵר (atah hoker) - You (masculine singular) search
+- אַתְּ חוֹקֶרֶת (at hokeret) - You (feminine singular) search
+- הוּא חוֹקֵר (hu hoker) - He searches
+- הִיא חוֹקֶרֶת (hi hokeret) - She searches
+- אֲנַחְנוּ חוֹקְרִים (anachnu hokrim) - We search
+- אַתֶּם חוֹקְרִים (atem hokrim) - You (masculine plural) search
+- אַתֶּן חוֹקְרוֹת (aten hokrot) - You (feminine plural) search
+- הֵם חוֹקְרִים (hem hokrim) - They (masculine) search
+- הֵן חוֹקְרוֹת (hen hokrot) - They (feminine) search
+
+Description: "חקור" means "to search" or "to investigate" in Hebrew. It refers to the act of looking for information or examining a subject in order to gain knowledge or understanding. It can be used in various contexts, such as scientific research, detective work, or simply searching for something physically or metaphorically.

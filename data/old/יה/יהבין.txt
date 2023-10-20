@@ -1,0 +1,10 @@
+Etymology: The word "יהבין" (Yahbin) is a Hebrew word derived from the root ה.ב.נ (H.B.N), which means "to understand" or "to comprehend."
+
+Grammar: "יהבין" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי יוֹבֵן (ani yovén) - I understand
+- Masculine singular: אַתָּה יוֹבֵן (atah yovén) - You understand
+- Feminine singular: אַתְּ יוֹבֶנֶת (at yovenet) - You understand
+- Masculine plural: אַתֶּם יוֹבְנִים (atem yovnim) - You understand
+- Feminine plural: אַתֶּן יוֹבְנוֹת (aten yovnot) - You understand
+
+Description: "יהבין" is a verb that expresses the action of understanding or comprehending something. It is used to describe the mental process of grasping or perceiving the meaning or significance of information, ideas, or concepts.

@@ -1,0 +1,10 @@
+Etymology: The word "חַמֵּק" (chamak) is a Hebrew word that comes from the root ח־מ־ק (ch-m-q). 
+
+Grammar: "חַמֵּק" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי חוֹמֵק (ani chomek) - I am hiding
+- Masculine singular: אַתָּה חוֹמֵק (ata chomek) - You (masculine) are hiding
+- Feminine singular: אַתְּ חוֹמֶקֶת (at chomeket) - You (feminine) are hiding
+- Masculine plural: אַתֶּם חוֹמְקִים (atem chomkim) - You (masculine plural) are hiding
+- Feminine plural: אַתֶּן חוֹמְקוֹת (aten chomkot) - You (feminine plural) are hiding
+
+Description: The word "חַמֵּק" means "to hide" in English. It is used to describe the action of concealing or keeping something out of sight.

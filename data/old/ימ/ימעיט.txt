@@ -1,0 +1,19 @@
+Etymology: The word "ימעיט" (pronounced "yama'it") is a Hebrew verb derived from the root י-מ-ע-ט (y-m-a-t), which means "to diminish" or "to reduce."
+
+Grammar: "ימעיט" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי מַמְעִיט (ani mam'it) - I diminish
+  - אַתָּה מַמְעִיט (ata mam'it) - You (masculine singular) diminish
+  - אַתְּ מַמְעִיטָה (at mam'itah) - You (feminine singular) diminish
+  - הוּא מַמְעִיט (hu mam'it) - He diminishes
+  - הִיא מַמְעִיטָה (hi mam'itah) - She diminishes
+
+- Plural:
+  - אֲנַחְנוּ מַמְעִיטִים (anachnu mam'itim) - We diminish
+  - אַתֶּם מַמְעִיטִים (atem mam'itim) - You (masculine plural) diminish
+  - אַתֶּן מַמְעִיטוֹת (aten mam'itot) - You (feminine plural) diminish
+  - הֵם מַמְעִיטִים (hem mam'itim) - They (masculine) diminish
+  - הֵן מַמְעִיטוֹת (hen mam'itot) - They (feminine) diminish
+
+Description: The verb "ימעיט" means "to diminish" or "to reduce" in Hebrew. It is used to describe the act of making something smaller in size, quantity, or importance. This verb can be used in various contexts, such as reducing the amount of food, decreasing the intensity of a problem, or minimizing the significance of an event.

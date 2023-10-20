@@ -1,0 +1,19 @@
+Etymology: The word "יודיע" (pronounced "yodea") comes from the Hebrew root י-ד-ע (y-d-a), which means "to know" or "to be aware." It is derived from the Hebrew noun יָדַע (yada), which means "knowledge" or "understanding."
+
+Grammar: "יודיע" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי יוֹדֵעַ (ani yodea) - I know
+  - אַתָּה יוֹדֵעַ (atah yodea) - You (masculine singular) know
+  - אַתְּ יוֹדֶעָת (at yode'at) - You (feminine singular) know
+  - הוּא יוֹדֵעַ (hu yodea) - He knows
+  - הִיא יוֹדַעַת (hi yoda'at) - She knows
+
+- Plural:
+  - אֲנַחְנוּ יוֹדְעִים (anachnu yod'im) - We know
+  - אַתֶּם יוֹדְעִים (atem yod'im) - You (masculine plural) know
+  - אַתֶּן יוֹדְעוֹת (aten yod'ot) - You (feminine plural) know
+  - הֵם יוֹדְעִים (hem yod'im) - They (masculine) know
+  - הֵן יוֹדְעוֹת (hen yod'ot) - They (feminine) know
+
+Description: The word "יודיע" means "to know" or "to be aware" in Hebrew. It is used to express knowledge or understanding of something. It can refer to factual knowledge, awareness of a situation, or familiarity with a person or subject.
