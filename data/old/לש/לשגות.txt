@@ -1,0 +1,13 @@
+Etymology: The word "לשגות" (leshagot) is a Hebrew verb derived from the root שגה (shagah), which means "to err" or "to make a mistake." It is formed by adding the prefix ל- (lamed) to the root.
+
+Grammar: "לשגות" is an infinitive verb form in Hebrew. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי שׁוֹגֵג (ani shogeg) - I err
+- אַתָּה שׁוֹגֵג (ata shogeg) - You err (masculine singular)
+- אַתְּ שׁוֹגֶגֶת (at shogget) - You err (feminine singular)
+- הוּא/הִיא שׁוֹגֵג (hu/hi shogeg) - He/She errs
+- אֲנַחְנוּ שׁוֹגְגִים (anachnu shogegim) - We err
+- אַתֶּם שׁוֹגְגִים (atem shogegim) - You err (masculine plural)
+- אַתֶּן שׁוֹגְגוֹת (aten shoggotot) - You err (feminine plural)
+- הֵם/הֵן שׁוֹגְגִים (hem/hen shogegim) - They err
+
+Description: The verb "לשגות" is used to describe the action of making a mistake or erring. It can refer to both unintentional errors and mistakes made due to lack of knowledge or understanding. The word can be used in various contexts, such as in everyday conversations, academic discussions, or legal contexts.

@@ -1,0 +1,19 @@
+Etymology: The word "יתב" (Yatav) is a Hebrew verb that means "to sit" or "to dwell". It is derived from the root י-ת-ב (Y-T-B), which conveys the idea of settling or remaining in a place.
+
+Grammar: "יתב" (Yatav) is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי יוֹשֵׁב (Ani yoshev) - I sit
+  - אַתָּה יוֹשֵׁב (Ata yoshev) - You (masculine singular) sit
+  - אַתְּ יוֹשֶׁבֶת (At yoshevet) - You (feminine singular) sit
+  - הוּא יוֹשֵׁב (Hu yoshev) - He sits
+  - הִיא יוֹשֶׁבֶת (Hi yoshevet) - She sits
+
+- Plural:
+  - אֲנַחְנוּ יוֹשְׁבִים (Anachnu yoshvim) - We sit
+  - אַתֶּם יוֹשְׁבִים (Atem yoshvim) - You (masculine plural) sit
+  - אַתֶּן יוֹשְׁבוֹת (Aten yoshvot) - You (feminine plural) sit
+  - הֵם יוֹשְׁבִים (Hem yoshvim) - They (masculine) sit
+  - הֵן יוֹשְׁבוֹת (Hen yoshvot) - They (feminine) sit
+
+Description: The verb "יתב" (Yatav) is used to describe the action of sitting or dwelling in a place. It can be used in various contexts, such as sitting on a chair, residing in a specific location, or remaining in a particular state.

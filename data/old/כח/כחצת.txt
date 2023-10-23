@@ -1,0 +1,11 @@
+Etymology: The word "כחצת" (pronounced "kachat") is a Hebrew word that comes from the root כ-ח-צ, which means "to divide" or "to split." It is derived from the noun חצי (chatzi), which means "half."
+
+Grammar: "כחצת" is a verb in the Hebrew language. It is conjugated in the present tense as follows:
+- Singular: אני כוחצת (ani kochetzet) - I divide
+- Masculine singular: אתה כוחץ (ata kochetz) - You (masculine) divide
+- Feminine singular: את כוחצת (at kochetzet) - You (feminine) divide
+- Plural: אנחנו כוחצים (anachnu kochetzim) - We divide
+- Masculine plural: אתם כוחצים (atem kochetzim) - You (masculine) divide
+- Feminine plural: אתן כוחצות (atan kochetzot) - You (feminine) divide
+
+Description: "כחצת" is an action verb that describes the act of dividing or splitting something into two equal parts. It can be used in various contexts, such as dividing a cake, cutting a piece of paper in half, or sharing something equally between two people.

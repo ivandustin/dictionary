@@ -1,0 +1,16 @@
+Etymology: The word "לגבא" (pronounced "legava" in Hebrew) is derived from the Aramaic word "לגבא" which means "to collect" or "to gather".
+
+Grammar: "לגבא" is a verb in the Hebrew language. It belongs to the binyan (verb conjugation) called "פָּעַל" (pa'al), which is the most common binyan in Hebrew. It is conjugated in the present tense as follows:
+
+- אֲנִי לוֹגֵב (ani logev) - I collect
+- אַתָּה לוֹגֵב (ata logev) - You (masculine singular) collect
+- אַתְּ לוֹגֶבֶת (at logevet) - You (feminine singular) collect
+- הוּא לוֹגֵב (hu logev) - He collects
+- הִיא לוֹגֶבֶת (hi logevet) - She collects
+- אֲנַחְנוּ לוֹגְבִים (anachnu logvim) - We collect
+- אַתֶּם לוֹגְבִים (atem logvim) - You (masculine plural) collect
+- אַתֶּן לוֹגְבוֹת (aten logvot) - You (feminine plural) collect
+- הֵם לוֹגְבִים (hem logvim) - They (masculine) collect
+- הֵן לוֹגְבוֹת (hen logvot) - They (feminine) collect
+
+Description: "לגבא" is a verb that describes the action of collecting or gathering things together. It can be used in various contexts, such as collecting objects, gathering information, or assembling a group of people.

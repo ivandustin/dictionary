@@ -1,0 +1,13 @@
+Etymology: The word "לצרף" (latsaraf) comes from the Hebrew root צ.ר.פ (ts.r.p), which means "to join" or "to attach".
+
+Grammar: "לצרף" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אני מְצַרֵף (ani metsaref) - I am joining
+- אתה מְצַרֵף (atah metsaref) - You (masculine singular) are joining
+- את מְצָרֶפֶת (at metsarefet) - You (feminine singular) are joining
+- הוא/היא מְצַרֵף (hu/hi metsaref) - He/She is joining
+- אנחנו מְצַרְפִים (anachnu metsarfim) - We are joining
+- אתם מְצַרְפִים (atem metsarfim) - You (masculine plural) are joining
+- אתן מְצַרְפוֹת (atan metsarfoot) - You (feminine plural) are joining
+- הם/הן מְצַרְפִים (hem/hen metsarfim) - They are joining
+
+Description: The verb "לצרף" means "to join" or "to attach" in Hebrew. It is used when referring to physically connecting or adding something to another object or group. It can also be used metaphorically to describe the act of including or incorporating someone or something into a larger whole.

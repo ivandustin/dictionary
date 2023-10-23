@@ -1,0 +1,5 @@
+Etymology: The word "לספות" (lesapot) is a Hebrew verb that comes from the root "ס.פ.ת" (s.p.t). 
+
+Grammar: "לספות" is an infinitive verb form in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows: אני סוֹפֵר (ani sofer) - I count, אתה סוֹפֵר (ata sofer) - you count (masculine singular), את סוֹפֶרֶת (at soferet) - you count (feminine singular), הוא סוֹפֵר (hu sofer) - he counts, היא סוֹפֶרֶת (hi soferet) - she counts, אנחנו סוֹפְרִים (anachnu sof’rim) - we count, אתם סוֹפְרִים (atem sof’rim) - you count (masculine plural), אתן סוֹפְרוֹת (atan sof’rot) - you count (feminine plural), הם סוֹפְרִים (hem sof’rim) - they count (masculine), הן סוֹפְרוֹת (hen sof’rot) - they count (feminine).
+
+Description: The verb "לספות" means "to count" in English. It is used to describe the action of determining the number of items or individuals in a group.

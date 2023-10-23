@@ -1,0 +1,16 @@
+Etymology: The word "להסכים" (lehaskim) is a Hebrew verb that comes from the root ס.כ.מ (s.k.m), which means "to agree" or "to consent."
+
+Grammar: "להסכים" is an infinitive verb form in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- אֲנִי מְסַכֵּם (ani mesakem) - I agree
+- אַתָּה מְסַכֵּם (atah mesakem) - You (masculine singular) agree
+- אַתְּ מְסַכֶּמֶת (at mesakemet) - You (feminine singular) agree
+- הוּא מְסַכֵּם (hu mesakem) - He agrees
+- הִיא מְסַכֶּמֶת (hi mesakemet) - She agrees
+- אֲנַחְנוּ מְסַכְּמִים (anachnu mesakemim) - We agree
+- אַתֶּם מְסַכְּמִים (atem mesakemim) - You (masculine plural) agree
+- אַתֶּן מְסַכְּמוֹת (aten mesakemot) - You (feminine plural) agree
+- הֵם מְסַכְּמִים (hem mesakemim) - They (masculine) agree
+- הֵן מְסַכְּמוֹת (hen mesakemot) - They (feminine) agree
+
+Description: The verb "להסכים" means "to agree" in Hebrew. It is used to express consent or approval of something. It can be used in various contexts, such as agreeing to a proposal, accepting an idea, or reaching a consensus.

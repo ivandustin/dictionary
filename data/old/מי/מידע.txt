@@ -1,0 +1,5 @@
+Etymology: The word "מידע" (pronounced "mida") comes from the Hebrew root י-ד-ע (y-d-a), which means "to know" or "to have knowledge." It is derived from the noun יָדַע (yada), which means "knowledge" or "information."
+
+Grammar: "מידע" is a noun in the Hebrew language. It is in the singular form and is masculine. In Hebrew, nouns have gender and number, and they can be modified by definite or indefinite articles.
+
+Description: "מידע" means "information" in Hebrew. It refers to knowledge or data that is communicated or received. It can include facts, details, or instructions that are used to understand or make decisions about a particular subject. In modern usage, it is commonly used in the context of technology and computer science to refer to digital information or data.

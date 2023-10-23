@@ -1,0 +1,14 @@
+Etymology: The word "לקבץ" (lekabetz) is derived from the Hebrew root ק.ב.ץ (k.b.ts), which means "to gather" or "to collect".
+
+Grammar: "לקבץ" (lekabetz) is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular:
+  - אֲנִי לוֹקֵץ (ani lokeitz) - I gather
+  - אַתָּה לוֹקֵץ (atah lokeitz) - You (masculine singular) gather
+  - אַתְּ לוֹקֶצֶת (at loketzet) - You (feminine singular) gather
+- Plural:
+  - אֲנַחְנוּ לוֹקְצִים (anachnu loketzim) - We gather
+  - אַתֶּם לוֹקְצִים (atem loketzim) - You (masculine plural) gather
+  - אַתֶּן לוֹקְצוֹת (aten loketzot) - You (feminine plural) gather
+  - הֵם/הֵן לוֹקְצִים (hem/hen loketzim) - They gather
+
+Description: The verb "לקבץ" (lekabetz) means "to gather" or "to collect" in Hebrew. It is used to describe the action of bringing together different things or people into one place or group. This verb can be used in various contexts, such as gathering objects, collecting data, or assembling a group of people.

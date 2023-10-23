@@ -1,0 +1,5 @@
+Etymology: The word "לסוג" (pronounced "lesog" in Hebrew) comes from the Hebrew root "ס.ו.ג" which means "to classify" or "to categorize". 
+
+Grammar: "לסוג" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows: אני מְסַוֵּג (ani mesaveg) - I classify, אתה מְסַוֵּג (ata mesaveg) - you classify (masculine singular), את מְסַוֶּגֶת (at mesaveget) - you classify (feminine singular), הוא מְסַוֵּג (hu mesaveg) - he classifies, היא מְסַוֶּגֶת (hi mesaveget) - she classifies, אנחנו מְסַוְּגִים (anachnu mesavegim) - we classify, אתם מְסַוְּגִים (atem mesavegim) - you classify (masculine plural), אתן מְסַוְּגוֹת (atan mesavegot) - you classify (feminine plural), הם מְסַוְּגִים (hem mesavegim) - they classify (masculine plural), הן מְסַוְּגוֹת (hen mesavegot) - they classify (feminine plural).
+
+Description: The verb "לסוג" means "to classify" or "to categorize" in Hebrew. It is used to describe the action of organizing or sorting things into different groups based on their similarities or characteristics.

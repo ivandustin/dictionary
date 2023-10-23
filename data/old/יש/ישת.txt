@@ -1,0 +1,17 @@
+Etymology: The word "ישת" (Yeshet) comes from the Hebrew root "יש" (Yesh), which means "to exist" or "to be." It is derived from the verb "היה" (Hayah), which means "to be" or "to become."
+
+Grammar: "ישת" (Yeshet) is a verb in the Hebrew language. It belongs to the binyan (verb structure) called "פָּעַל" (Pa'al), which is the most common verb structure in Hebrew. It is conjugated in the present tense as follows:
+
+- Singular:
+  - 1st person: אֲנִי יֵשֵׁת (Ani yeshet) - I exist
+  - 2nd person: אַתָּה יֵשֵׁת (Atah yeshet) - You exist (masculine)
+  - 2nd person: אַתְּ יֵשֶׁת (At yeshet) - You exist (feminine)
+  - 3rd person: הוּא/הִיא יֵשֵׁת (Hu/Hi yeshet) - He/She exists
+
+- Plural:
+  - 1st person: אֲנַחְנוּ יֵשְׁתִּים (Anachnu yeshetim) - We exist
+  - 2nd person: אַתֶּם יֵשְׁתֶּם (Atem yeshetem) - You exist (masculine/plural)
+  - 2nd person: אַתֶּן יֵשְׁתֶּן (Aten yesheten) - You exist (feminine/plural)
+  - 3rd person: הֵם/הֵן יֵשְׁתִּים (Hem/Hen yeshetim) - They exist
+
+Description: "ישת" (Yeshet) is a verb that expresses the state of existence or being. It is used to indicate the presence or existence of someone or something. It can also be used to describe the possession or availability of something.

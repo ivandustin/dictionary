@@ -1,0 +1,14 @@
+Etymology: The word "כונן" comes from the Hebrew root כ-ו-נ, which means "to establish" or "to prepare." It is derived from the noun כֵּן (ken), meaning "base" or "foundation."
+
+Grammar: "כונן" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי כוֹנֵן (ani konen) - I establish
+- Masculine singular: אַתָּה כוֹנֵן (ata konen) - You (masculine) establish
+- Feminine singular: אַתְּ כוֹנֶנֶת (at konenet) - You (feminine) establish
+- Masculine plural: אַתֶּם כוֹנְנִים (atem konnim) - You (masculine plural) establish
+- Feminine plural: אַתֶּן כוֹנְנוֹת (aten konnot) - You (feminine plural) establish
+- Masculine singular: הוּא כוֹנֵן (hu konen) - He establishes
+- Feminine singular: הִיא כוֹנֶנֶת (hi konenet) - She establishes
+- Masculine plural: הֵם כוֹנְנִים (hem konnim) - They (masculine) establish
+- Feminine plural: הֵן כוֹנְנוֹת (hen konnot) - They (feminine) establish
+
+Description: The verb "כונן" means "to establish" or "to prepare" in Hebrew. It is often used to describe the act of setting up or arranging something in a proper or organized manner. It can also refer to the process of planning or getting ready for a specific purpose or goal.

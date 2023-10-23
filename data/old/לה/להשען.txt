@@ -1,0 +1,19 @@
+Etymology: The word "להשען" (lehisha'en) is a Hebrew verb that comes from the root שען (sha'an), which means "to lean" or "to rely on."
+
+Grammar: "להשען" is an infinitive verb form in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי מִתְשַעֵן (ani mitsha'en) - I lean/rely on
+  - אַתְּ מִתְשַעֶנֶת (at mitsha'enet) - You (feminine) lean/rely on
+  - אַתָּה מִתְשַעֵן (atah mitsha'en) - You (masculine) lean/rely on
+  - הוּא מִתְשַעֵן (hu mitsha'en) - He leans/rely on
+  - הִיא מִתְשַעֶנֶת (hi mitsha'enet) - She leans/rely on
+
+- Plural:
+  - אֲנַחְנוּ מִתְשַעֲנִים (anachnu mitsha'anim) - We lean/rely on
+  - אַתֶּם מִתְשַעֲנִים (atem mitsha'anim) - You (masculine plural) lean/rely on
+  - אַתֶּן מִתְשַעֲנוֹת (aten mitsha'anot) - You (feminine plural) lean/rely on
+  - הֵם מִתְשַעֲנִים (hem mitsha'anim) - They (masculine) lean/rely on
+  - הֵן מִתְשַעֲנוֹת (hen mitsha'anot) - They (feminine) lean/rely on
+
+Description: The verb "להשען" is used to express the action of leaning or relying on something or someone for support, guidance, or assistance. It can be used both in a physical sense, such as leaning on a wall, and in a metaphorical sense, such as relying on someone's advice or help.

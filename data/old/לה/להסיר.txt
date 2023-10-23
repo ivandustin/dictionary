@@ -1,0 +1,15 @@
+Etymology: The word "להסיר" (lehaseer) is a Hebrew verb that comes from the root ס.ו.ר (s.w.r), which means "to remove" or "to take away".
+
+Grammar: "להסיר" is an infinitive verb form in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי מוֹסִיר (ani mosir) - I remove
+- אַתָּה מוֹסִיר (atah mosir) - You (masculine singular) remove
+- אַתְּ מוֹסֶרֶת (at moseret) - You (feminine singular) remove
+- הוּא מוֹסִיר (hu mosir) - He removes
+- הִיא מוֹסֶרֶת (hi moseret) - She removes
+- אֲנַחְנוּ מוֹסְרִים (anachnu mosrim) - We remove
+- אַתֶּם מוֹסְרִים (atem mosrim) - You (masculine plural) remove
+- אַתֶּן מוֹסְרוֹת (aten mosrot) - You (feminine plural) remove
+- הֵם מוֹסְרִים (hem mosrim) - They (masculine) remove
+- הֵן מוֹסְרוֹת (hen mosrot) - They (feminine) remove
+
+Description: The verb "להסיר" means "to remove" or "to take away" in Hebrew. It is used to indicate the action of taking something away from a certain place or person. The verb can be used in various contexts, such as removing an object, eliminating a problem, or withdrawing support.

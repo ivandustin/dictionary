@@ -1,0 +1,5 @@
+Etymology: The word "כיקוד" (pronounced "kikud") comes from the Hebrew language. It is derived from the root ק.ו.ד (k.w.d), which means "to mark" or "to indicate."
+
+Grammar: "כיקוד" is a noun in Hebrew and is used to refer to the act of marking or indicating something. It can also be used to describe a specific mark or indication.
+
+Description: "כיקוד" is often used in the context of computer programming or coding, where it refers to the process of marking or indicating specific instructions or commands. It can also be used more generally to describe any kind of marking or indication in various contexts.

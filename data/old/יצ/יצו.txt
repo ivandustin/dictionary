@@ -1,0 +1,19 @@
+Etymology: The word "יצו" (pronounced "yatzu") is a Hebrew verb that means "to command" or "to order." It is derived from the Hebrew root צ.ו.ה (ts.w.h), which conveys the idea of giving instructions or directives.
+
+Grammar: "יצו" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי יוֹצֵא (ani yotze) - I command
+  - אַתָּה יוֹצֵא (atah yotze) - You (masculine singular) command
+  - אַתְּ יוֹצֶאת (at yotzet) - You (feminine singular) command
+  - הוּא יוֹצֵא (hu yotze) - He commands
+  - הִיא יוֹצֵאת (hi yotzet) - She commands
+
+- Plural:
+  - אֲנַחְנוּ יוֹצְאִים (anachnu yotze'im) - We command
+  - אַתֶּם יוֹצְאִים (atem yotze'im) - You (masculine plural) command
+  - אַתֶּן יוֹצְאוֹת (aten yotze'ot) - You (feminine plural) command
+  - הֵם יוֹצְאִים (hem yotze'im) - They (masculine) command
+  - הֵן יוֹצְאוֹת (hen yotze'ot) - They (feminine) command
+
+Description: The verb "יצו" is used to express the act of commanding or giving orders. It is commonly used in various contexts, such as military commands, instructions from authorities, or simply directing someone to do something.

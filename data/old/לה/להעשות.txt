@@ -1,0 +1,17 @@
+Etymology: The word "להעשות" (lehakshiv) is a Hebrew verb that comes from the root ע.ש.ו.ה (a.s.h.w.h), which means "to listen" or "to pay attention". It is derived from the Hebrew noun "הקשבה" (hakshava), which means "listening" or "attention".
+
+Grammar: "להעשות" is an infinitive verb form in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - 1st person: אני מַקְשִׁיב (ani makshiv) - I listen
+  - 2nd person: אתה מַקְשִׁיב (atah makshiv) - You listen (masculine)
+  - 2nd person: את מַקְשִׁיבָה (at makshivah) - You listen (feminine)
+  - 3rd person: הוא/היא מַקְשִׁיב (hu/hi makshiv) - He/She listens
+
+- Plural:
+  - 1st person: אנחנו מַקְשִׁיבִים (anachnu makshivim) - We listen
+  - 2nd person: אתם מַקְשִׁיבִים (atem makshivim) - You listen (masculine/plural)
+  - 2nd person: אתן מַקְשִׁיבוֹת (atan makshivot) - You listen (feminine/plural)
+  - 3rd person: הם/הן מַקְשִׁיבִים (hem/hen makshivim) - They listen
+
+Description: The verb "להעשות" means "to listen" or "to pay attention" in Hebrew. It is used to describe the act of actively hearing and giving attention to someone or something. It can also imply understanding or obeying what is being heard.

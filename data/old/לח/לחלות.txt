@@ -1,0 +1,9 @@
+Etymology: The word "לחלות" (lachlot) is derived from the Hebrew root "ח.ל.ה" (ch.l.h), which means "to be sick" or "to be ill".
+
+Grammar: "לחלות" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אני לוחל (ani lochel) - I am sick
+- Singular feminine: אני לוחלת (ani lochelet) - I am sick
+- Plural masculine: אנחנו לוחלים (anachnu lochelim) - We are sick
+- Plural feminine: אנחנו לוחלות (anachnu lochelot) - We are sick
+
+Description: "לחלות" is a verb that describes the state of being sick or ill. It is used to express the physical or mental condition of someone who is unwell.

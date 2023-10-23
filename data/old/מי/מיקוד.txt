@@ -1,0 +1,5 @@
+Etymology: The word "מיקוד" (mikud) is a Hebrew word that comes from the root ק.ו.ד (k.w.d), which means "to mark" or "to designate." It is derived from the noun קָוָה (kavah), which means "line" or "mark."
+
+Grammar: In Hebrew, "מיקוד" (mikud) is a noun that is used to refer to a postal code or ZIP code. It is a masculine noun and is typically used with the definite article "ה" (ha) to form the phrase "המיקוד" (hamikud), meaning "the postal code."
+
+Description: A postal code, also known as a ZIP code, is a numerical code used by postal services to identify specific geographic areas for the purpose of sorting and delivering mail. In Israel, the postal code system is called "מיקוד" (mikud), and each postal code corresponds to a specific city, town, or neighborhood. The postal code is typically written before the name of the city or town in addresses.

@@ -1,0 +1,10 @@
+Etymology: The word "כעס" (pronounced "ka'as") comes from the Hebrew language. It is derived from the root כעס, which means "to be angry" or "to be provoked."
+
+Grammar: In Hebrew, "כעס" is a verb that belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי כוֹעֵס (ani ko'es) - I am angry
+- Masculine singular: אַתָּה כוֹעֵס (atah ko'es) - You (masculine) are angry
+- Feminine singular: אַתְּ כוֹעֶסֶת (at ko'eset) - You (feminine) are angry
+- Masculine plural: אַתֶּם כוֹעֲסִים (atem ko'asim) - You (masculine plural) are angry
+- Feminine plural: אַתֶּן כוֹעֲסוֹת (aten ko'asot) - You (feminine plural) are angry
+
+Description: "כעס" is a Hebrew verb that describes the feeling of anger or being provoked. It can be used to express frustration, irritation, or displeasure.

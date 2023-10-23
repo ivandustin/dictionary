@@ -1,0 +1,19 @@
+Etymology: The word "יתן" (pronounced "yiten") is a Hebrew verb that means "to give" in English. It is derived from the Hebrew root נתן (pronounced "natan"), which also means "to give."
+
+Grammar: "יתן" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+
+- Singular:
+  - אֲנִי יוֹתֵן (ani yoten) - I give
+  - אַתָּה תִּתֵּן (atah titen) - You (masculine singular) give
+  - אַתְּ תִּתֵּנִי (at titeni) - You (feminine singular) give
+  - הוּא יִתֵּן (hu yiten) - He gives
+  - הִיא תִּתֵּן (hi titen) - She gives
+
+- Plural:
+  - אֲנַחְנוּ נוֹתְנִים (anachnu notnim) - We give
+  - אַתֶּם תִּתְּנוּ (atem titnu) - You (masculine plural) give
+  - אַתֶּן תִּתְּנֶנָּה (aten titnenah) - You (feminine plural) give
+  - הֵם יִתְּנוּ (hem yitnu) - They (masculine) give
+  - הֵן יִתְּנֶנָּה (hen yitnenah) - They (feminine) give
+
+Description: The word "יתן" is a versatile verb that is commonly used in everyday Hebrew conversations. It is used to express the action of giving something to someone or something. The verb can be used in various contexts, such as giving a gift, giving advice, giving permission, or giving a command.

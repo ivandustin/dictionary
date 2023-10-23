@@ -1,0 +1,10 @@
+Etymology: The word "כָּעַר" (pronounced "ka'ar") comes from the Hebrew root כ־ע־ר, which means "to be bald" or "to be bare." It is derived from the noun כֵּרֵחַ (pronounced "kereach"), which means "baldness" or "bald spot."
+
+Grammar: כָּעַר is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי כּוֹעֵר (ani ko'er) - I am bald
+- Masculine singular: אַתָּה כּוֹעֵר (ata ko'er) - You are bald
+- Feminine singular: אַתְּ כּוֹעֶרֶת (at ko'eret) - You are bald
+- Masculine plural: אַתֶּם כּוֹעֲרִים (atem ko'arim) - You are bald
+- Feminine plural: אַתֶּן כּוֹעֲרוֹת (aten ko'arot) - You are bald
+
+Description: כָּעַר is a Hebrew verb that specifically refers to the act of being bald or having a bald spot. It is used to describe the condition of lacking hair on the head.

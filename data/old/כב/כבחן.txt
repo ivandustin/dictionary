@@ -1,0 +1,15 @@
+Etymology: The word "כבחן" (kavhan) comes from the Hebrew root כ-ב-ח, which means "to examine" or "to test." It is derived from the noun כֶּבֶךְ (kevekh), meaning "a test" or "an examination."
+
+Grammar: "כבחן" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי מְכַבֵּחַ (ani mekhaveach) - I examine
+- אַתָּה מְכַבֵּחַ (atah mekhaveach) - You (masculine singular) examine
+- אַתְּ מְכַבֶּחֶת (at mekhavechet) - You (feminine singular) examine
+- הוּא מְכַבֵּחַ (hu mekhaveach) - He examines
+- הִיא מְכַבֶּחֶת (hi mekhavechet) - She examines
+- אֲנַחְנוּ מְכַבְּחִים (anachnu mekhabchim) - We examine
+- אַתֶּם מְכַבְּחִים (atem mekhabchim) - You (masculine plural) examine
+- אַתֶּן מְכַבְּחוֹת (aten mekhabchot) - You (feminine plural) examine
+- הֵם מְכַבְּחִים (hem mekhabchim) - They (masculine) examine
+- הֵן מְכַבְּחוֹת (hen mekhabchot) - They (feminine) examine
+
+Description: The word "כבחן" means "to examine" or "to test" in Hebrew. It is often used to describe the act of evaluating or assessing something or someone. It can refer to various types of examinations, such as academic tests, assessments of skills or abilities, or even a process of investigation or scrutiny.
