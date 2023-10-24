@@ -1,0 +1,15 @@
+Etymology: The Hebrew word "תהרגם" (tehargem) comes from the root ה.ר.ג (h.r.g), which means "to translate" or "to interpret." It is derived from the Aramaic word "תרגום" (targum), which also means "translation."
+
+Grammar: "תהרגם" is a verb in the Hebrew language. It is conjugated in the present tense as follows:
+- אני מתרגם (ani mitargem) - I translate
+- אתה מתרגם (atah mitargem) - You (singular, masculine) translate
+- את מתרגמת (at mitargemet) - You (singular, feminine) translate
+- הוא מתרגם (hu mitargem) - He translates
+- היא מתרגמת (hi mitargemet) - She translates
+- אנחנו מתרגמים (anachnu mitargemim) - We translate
+- אתם מתרגמים (atem mitargemim) - You (plural, masculine) translate
+- אתן מתרגמות (atan mitargemot) - You (plural, feminine) translate
+- הם מתרגמים (hem mitargemim) - They (masculine) translate
+- הן מתרגמות (hen mitargemot) - They (feminine) translate
+
+Description: "תהרגם" means "to translate" in Hebrew. It refers to the act of converting text or speech from one language to another, while preserving its meaning and intent. Translating is an important skill that allows people to communicate and understand different languages and cultures.

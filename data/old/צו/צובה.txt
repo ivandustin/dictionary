@@ -1,0 +1,10 @@
+Etymology: The word "צובה" (pronounced "tzovah") comes from the Hebrew root צ.ב.ה, which means "to dye" or "to color." It is derived from the noun צֵבָע (tzeva), meaning "color."
+
+Grammar: "צובה" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי צוֹבֶה (ani tzoveh) - I dye
+- Masculine singular: אַתָּה צוֹבֶה (atah tzoveh) - You (masculine) dye
+- Feminine singular: אַתְּ צוֹבָה (at tzovah) - You (feminine) dye
+- Masculine plural: אַתֶּם צוֹבִים (atem tzovim) - You (masculine plural) dye
+- Feminine plural: אַתֶּן צוֹבוֹת (aten tzovot) - You (feminine plural) dye
+
+Description: The verb "צובה" means "to dye" or "to color" in Hebrew. It refers to the process of adding color to something, usually by immersing it in a liquid dye or applying colorants. This verb can be used in various contexts, such as dyeing fabrics, coloring hair, or staining materials.

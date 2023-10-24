@@ -1,0 +1,15 @@
+Etymology: The word "מֶשְׁתֵּקֶר" (mesteker) is derived from the Hebrew root שׁ.ק.ר (sh.k.r), which means "to lie" or "to deceive".
+
+Grammar: "מֶשְׁתֵּקֶר" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי מִשְׁתַּקֵּר (ani mistakker) - I lie
+- אַתָּה מִשְׁתַּקֵּר (ata mistakker) - You (masculine singular) lie
+- אַתְּ מִשְׁתַּקֶּרֶת (at mistakkeret) - You (feminine singular) lie
+- הוּא מִשְׁתַּקֵּר (hu mistakker) - He lies
+- הִיא מִשְׁתַּקֶּרֶת (hi mistakkeret) - She lies
+- אֲנַחְנוּ מִשְׁתַּקְּרִים (anachnu mistakkerim) - We lie
+- אַתֶּם מִשְׁתַּקְּרִים (atem mistakkerim) - You (masculine plural) lie
+- אַתֶּן מִשְׁתַּקְּרוֹת (aten mistakkerot) - You (feminine plural) lie
+- הֵם מִשְׁתַּקְּרִים (hem mistakkerim) - They (masculine) lie
+- הֵן מִשְׁתַּקְּרוֹת (hen mistakkerot) - They (feminine) lie
+
+Description: "מֶשְׁתֵּקֶר" is a Hebrew verb that means "to lie" or "to deceive". It is used to describe the act of intentionally providing false information or misleading others.

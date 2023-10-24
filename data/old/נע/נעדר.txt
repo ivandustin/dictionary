@@ -1,0 +1,16 @@
+Etymology: The word "נעדר" (pronounced "ne'eder") comes from the Hebrew root נ-ע-ד-ר, which means "to be absent" or "to be missing."
+
+Grammar: "נעדר" is a verb in the Hebrew language. It is conjugated in the present tense as follows:
+- Singular: אני נעדר (ani ne'eder) - I am absent
+            אתה נעדר (atah ne'eder) - You (masculine singular) are absent
+            את נעדרת (at ne'edert) - You (feminine singular) are absent
+            הוא נעדר (hu ne'eder) - He is absent
+            היא נעדרת (hi ne'edert) - She is absent
+            זה נעדר (ze ne'eder) - It is absent
+- Plural: אנחנו נעדרים (anachnu ne'edarim) - We are absent
+            אתם נעדרים (atem ne'edarim) - You (masculine plural) are absent
+            אתן נעדרות (atan ne'edarot) - You (feminine plural) are absent
+            הם נעדרים (hem ne'edarim) - They (masculine) are absent
+            הן נעדרות (hen ne'edarot) - They (feminine) are absent
+
+Description: The word "נעדר" means "to be absent" or "to be missing" in Hebrew. It is used to describe someone or something that is not present or is not where it is expected to be. It can be used in various contexts, such as when referring to a person who is not present at a meeting or an object that is missing from a specific location.

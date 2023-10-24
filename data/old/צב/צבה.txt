@@ -1,0 +1,10 @@
+Etymology: The word "צבה" (pronounced "tzava") comes from the Hebrew root צ.ב.ה, which means "to command" or "to order." It is derived from the noun צַבָּא (tzava), which means "army" or "host."
+
+Grammar: "צבה" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי צוֹבֶה (ani tzoveh) - I command
+- Masculine singular: אַתָּה צוֹבֶה (atah tzoveh) - You (masculine) command
+- Feminine singular: אַתְּ צוֹבָה (at tzovah) - You (feminine) command
+- Masculine plural: אַתֶּם צוֹבִים (atem tzovim) - You (masculine plural) command
+- Feminine plural: אַתֶּן צוֹבוֹת (aten tzovot) - You (feminine plural) command
+
+Description: The word "צבה" is used to describe the act of commanding or ordering someone to do something. It can be used in various contexts, such as commanding an army, giving instructions, or directing someone's actions.

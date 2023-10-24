@@ -1,0 +1,19 @@
+Etymology: The word "פתע" (pronounced "peta") comes from the Hebrew language. It is derived from the root פ.ת.ע, which means "to surprise" or "to startle."
+
+Grammar: "פתע" is a verb in the Hebrew language. It belongs to the pa'al (פָּעַל) verb conjugation, which is the most common verb conjugation in Hebrew. In the present tense, it is conjugated as follows:
+
+- Singular:
+  - 1st person: אֲנִי פָּתַעְתִּי (ani pata'ti) - I surprised
+  - 2nd person: אַתָּה פָּתַעְתָּ (ata pata'ta) - You surprised (masculine)
+  - 2nd person: אַתְּ פָּתַעְתְּ (at pata't) - You surprised (feminine)
+  - 3rd person: הוּא פָּתַע (hu pata') - He surprised
+  - 3rd person: הִיא פָּתְעָה (hi pata'ah) - She surprised
+
+- Plural:
+  - 1st person: אֲנַחְנוּ פָּתַעְנוּ (anachnu pata'nu) - We surprised
+  - 2nd person: אַתֶּם פְּתַעְתֶּם (atem pata'tem) - You surprised (masculine plural)
+  - 2nd person: אַתֶּן פְּתַעְתֶּן (aten pata'ten) - You surprised (feminine plural)
+  - 3rd person: הֵם פָּתְעוּ (hem pata'u) - They surprised (masculine)
+  - 3rd person: הֵן פָּתְעוּ (hen pata'u) - They surprised (feminine)
+
+Description: The word "פתע" means "to surprise" or "to startle" in Hebrew. It is used to describe the act of unexpectedly causing someone to feel startled or amazed. It can be used in various contexts, such as surprising someone with unexpected news, actions, or events.

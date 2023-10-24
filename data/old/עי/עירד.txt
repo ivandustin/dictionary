@@ -1,0 +1,10 @@
+Etymology: The word "עירד" (pronounced "eerd") comes from the Hebrew language. It is derived from the root ע-ר-ד (Ayin-Resh-Dalet), which means "to descend" or "to go down."
+
+Grammar: "עירד" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי עוֹרֵד (ani ored) - I descend
+- Masculine singular: אַתָּה עוֹרֵד (ata ored) - You (masculine) descend
+- Feminine singular: אַתְּ עוֹרֶדֶת (at oredet) - You (feminine) descend
+- Masculine plural: אַתֶּם עוֹרְדִים (atem ordim) - You (masculine plural) descend
+- Feminine plural: אַתֶּן עוֹרְדוֹת (aten ordot) - You (feminine plural) descend
+
+Description: The word "עירד" is used to describe the action of descending or going down physically or metaphorically. It can refer to descending a mountain, descending stairs, or even descending in rank or status.

@@ -1,0 +1,15 @@
+Etymology: The word "תקשר" (pronounced "tiksher") comes from the Hebrew root ק.ש.ר (q.sh.r), which means "to connect" or "to link." It is derived from the noun קֶשֶׁר (keshér), meaning "a bond" or "a connection."
+
+Grammar: "תקשר" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי מְתַקֵּשֵׁר (ani metakesher) - I connect
+- אַתָּה מְתַקֵּשֵׁר (atah metakesher) - You (masculine singular) connect
+- אַתְּ מְתַקֶּשֶׁרֶת (at metakesheret) - You (feminine singular) connect
+- הוּא מְתַקֵּשֵׁר (hu metakesher) - He connects
+- הִיא מְתַקֶּשֶׁרֶת (hi metakesheret) - She connects
+- אֲנַחְנוּ מְתַקְּשְׁרִים (anachnu metaksherim) - We connect
+- אַתֶּם מְתַקְּשְׁרִים (atem metaksherim) - You (masculine plural) connect
+- אַתֶּן מְתַקְּשְׁרוֹת (aten metaksherot) - You (feminine plural) connect
+- הֵם מְתַקְּשְׁרִים (hem metaksherim) - They (masculine) connect
+- הֵן מְתַקְּשְׁרוֹת (hen metaksherot) - They (feminine) connect
+
+Description: The word "תקשר" means "to connect" or "to link" in Hebrew. It is used to describe the action of establishing a connection or bond between two or more things, whether physical or abstract. It can refer to connecting people, ideas, objects, or any other entities.

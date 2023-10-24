@@ -1,0 +1,10 @@
+Etymology: The word "תודיע" (todia) comes from the Hebrew root י-ד-ע (y-d-a), which means "to know" or "to inform." It is derived from the noun דעה (da'ah), meaning "knowledge" or "information."
+
+Grammar: "תודיע" (todia) is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי מוֹדִיע (ani modi'a) - I inform
+- Masculine singular: אַתָּה מוֹדִיע (ata modi'a) - You inform (to a male)
+- Feminine singular: אַתְּ מוֹדִיעָה (at modi'ah) - You inform (to a female)
+- Masculine plural: אַתֶּם מוֹדְיעִים (atem modi'im) - You inform (to a group of males or mixed gender)
+- Feminine plural: אַתֶּן מוֹדְיעוֹת (aten modi'ot) - You inform (to a group of females)
+
+Description: The word "תודיע" (todia) means "to inform" or "to notify" in Hebrew. It is used when someone wants to convey information or make someone aware of something.

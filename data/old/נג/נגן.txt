@@ -1,0 +1,14 @@
+Etymology: The word "נגן" (nagan) comes from the Hebrew root נ.ג.נ (n.g.n), which means "to play" or "to touch." It is derived from the noun נֵגֶן (negen), which means "musician" or "player."
+
+Grammar: In Hebrew, נגן is a verb that belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- אֲנִי נוֹגֵן (ani no-gen) - I play
+- אַתָּה נוֹגֵן (ata no-gen) - You (masculine singular) play
+- אַתְּ נוֹגֶנֶת (at no-ge-net) - You (feminine singular) play
+- הוּא נוֹגֵן (hu no-gen) - He plays
+- הִיא נוֹגֶנֶת (hi no-ge-net) - She plays
+- אֲנַחְנוּ נוֹגְנִים (anachnu no-gnim) - We play
+- אַתֶּם נוֹגְנִים (atem no-gnim) - You (masculine plural) play
+- אַתֶּן נוֹגְנוֹת (aten no-gno-tot) - You (feminine plural) play
+- הֵם נוֹגְנִים (hem no-gnim) - They play
+
+Description: נגן is a versatile Hebrew verb that can have several meanings depending on the context. It can mean "to play" a musical instrument, "to touch" or "to handle" an object, or "to perform" an action. It is commonly used to describe playing musical instruments, such as playing the piano (לְנַגֵּן פִּסְנֵתִי, le-nagen pisneti) or playing the guitar (לְנַגֵּן בַּגִּיטָרָה, le-nagen ba-gitara).

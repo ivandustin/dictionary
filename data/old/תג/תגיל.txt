@@ -1,0 +1,15 @@
+Etymology: The word "תגיל" (pronounced "tagil") is a Hebrew word that comes from the root ג.ל.ל (g.l.l), which means "to reveal" or "to uncover." It is derived from the noun גיל (gil), which means "revelation" or "unveiling."
+
+Grammar: "תגיל" is a verb in the Hebrew language. It is conjugated in the present tense as follows:
+- Singular:
+  - 1st person: אני מתגל (ani mitgal) - I reveal
+  - 2nd person: אתה מתגל (atah mitgal) - You reveal (masculine)
+  - 2nd person: את מתגלת (at mitgalet) - You reveal (feminine)
+  - 3rd person: הוא/היא מתגל (hu/hi mitgal) - He/She reveals
+- Plural:
+  - 1st person: אנחנו מתגלים (anachnu mitgalim) - We reveal
+  - 2nd person: אתם מתגלים (atem mitgalim) - You reveal (masculine)
+  - 2nd person: אתן מתגלות (atan mitgalot) - You reveal (feminine)
+  - 3rd person: הם/הן מתגלים (hem/hen mitgalim) - They reveal
+
+Description: The word "תגיל" means "to reveal" or "to uncover" in Hebrew. It is often used to describe the act of exposing or making something known that was previously hidden or secret.

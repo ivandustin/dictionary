@@ -1,0 +1,10 @@
+Etymology: The word "פלל" (pronounced "pell") comes from the Hebrew language. It is derived from the root letters פ-ל-ל, which means "to pray" or "to plead."
+
+Grammar: In Hebrew, "פלל" is a verb that belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי מִפְּלֵל (ani mepalel) - I pray
+- Masculine singular: אַתָּה מִתְפַּלֵּל (atah mitpalel) - You (masculine) pray
+- Feminine singular: אַתְּ מִתְפַּלֶּלֶת (at mitpalelet) - You (feminine) pray
+- Masculine plural: אַתֶּם מִתְפַּלְּלִים (atem mitpallelim) - You (masculine plural) pray
+- Feminine plural: אַתֶּן מִתְפַּלְּלוֹת (aten mitpallelot) - You (feminine plural) pray
+
+Description: The word "פלל" is commonly translated as "to pray" in English. It refers to the act of communicating with a higher power, expressing gratitude, making requests, or seeking guidance. Prayer is an important practice in many religions and is often performed individually or in a communal setting.

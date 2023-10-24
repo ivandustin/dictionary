@@ -1,0 +1,5 @@
+Etymology: The word "מתג" (matag) is a Hebrew word that comes from the root ת-ג-ה (T-G-H), which means "to close" or "to shut". 
+
+Grammar: In Hebrew, "מתג" (matag) is a noun that is used to describe a switch or a toggle. It is commonly used to refer to a device that can be used to open or close an electrical circuit.
+
+Description: A "מתג" (matag) is a mechanical or electrical device that is used to control the flow of electricity in a circuit. It typically consists of a lever, button, or other mechanism that can be moved or pressed to open or close the circuit. When the switch is in the "on" position, the circuit is closed and electricity can flow through it. When the switch is in the "off" position, the circuit is open and electricity cannot flow. Switches are commonly used in homes, offices, and other buildings to control lights, appliances, and other electrical devices.

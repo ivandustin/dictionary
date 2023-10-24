@@ -1,0 +1,10 @@
+Etymology: The word "נמקר" (pronounced "nimkar") is a Hebrew word that comes from the root נ-מ-ק-ר (N-M-K-R). 
+
+Grammar: "נמקר" is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular: אֲנִי נוֹמֵקֵר (ani nomeker) - I am defined
+- Masculine singular: אַתָּה נוֹמֵקֵר (ata nomeker) - You (masculine) are defined
+- Feminine singular: אַתְּ נוֹמֶקֶרֶת (at nomekeret) - You (feminine) are defined
+- Masculine plural: אַתֶּם נוֹמְקְרִים (atem nomekerim) - You (masculine plural) are defined
+- Feminine plural: אַתֶּן נוֹמְקְרוֹת (aten nomekerot) - You (feminine plural) are defined
+
+Description: The word "נמקר" means "to define" in English. It is used to describe the act of giving a clear and precise meaning to something or someone.

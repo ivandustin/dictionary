@@ -1,0 +1,15 @@
+Etymology: The word "תנתח" (tenach) comes from the Hebrew root נ.ת.ח (n.t.ch), which means "to dissect" or "to analyze". It is derived from the noun נְתִיחָה (neticha), meaning "dissection" or "analysis".
+
+Grammar: "תנתח" (tenach) is a verb in the Hebrew language. It belongs to the binyan Pa'al (פָּעַל) and is conjugated in the present tense as follows:
+- Singular:
+  - 1st person: אֲנִי תּוֹנֵחַ (ani toneach) - I dissect
+  - 2nd person: אַתָּה תּוֹנֵחַ (atah toneach) - You dissect (masculine)
+  - 2nd person: אַתְּ תּוֹנְחִי (at tonechi) - You dissect (feminine)
+  - 3rd person: הוּא/הִיא תּוֹנֵחַ (hu/hi toneach) - He/She dissects
+- Plural:
+  - 1st person: אֲנַחְנוּ תּוֹנְחִים (anachnu tonechim) - We dissect
+  - 2nd person: אַתֶּם תּוֹנְחִים (atem tonechim) - You dissect (masculine)
+  - 2nd person: אַתֶּן תּוֹנְחוֹת (aten tonechot) - You dissect (feminine)
+  - 3rd person: הֵם/הֵן תּוֹנְחִים (hem/hen tonechim) - They dissect
+
+Description: The word "תנתח" (tenach) refers to the act of dissecting or analyzing something in a detailed and systematic manner. It is often used in scientific or academic contexts to describe the process of examining and studying the internal structure or components of an object, organism, or concept.

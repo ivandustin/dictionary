@@ -1,0 +1,15 @@
+Etymology: The word "ערד" (pronounced "er-d") comes from the Hebrew language. It is derived from the Hebrew root ע-ר-ד, which means "to flee" or "to escape."
+
+Grammar: "ערד" is a verb in the Hebrew language. It belongs to the "פָּעַל" (pa'al) verb group, which is the most common verb group in Hebrew. In its basic form, it is conjugated in the present tense as follows:
+
+- Singular:
+  - 1st person: אָנִי עוֹרֵד (ani ored) - I flee
+  - 2nd person: אַתָּה עוֹרֵד (ata ored) - You (masculine) flee
+  - 3rd person: הוּא עוֹרֵד (hu ored) - He flees, הִיא עוֹרֶדֶת (hi oredet) - She flees
+
+- Plural:
+  - 1st person: אֲנַחְנוּ עוֹרְדִים (anachnu ordim) - We flee
+  - 2nd person: אַתֶּם עוֹרְדִים (atem ordim) - You (masculine plural) flee, אַתֶּן עוֹרְדוֹת (aten ordot) - You (feminine plural) flee
+  - 3rd person: הֵם עוֹרְדִים (hem ordim) - They (masculine) flee, הֵן עוֹרְדוֹת (hen ordot) - They (feminine) flee
+
+Description: The verb "ערד" is used to describe the action of fleeing or escaping from a place or situation. It can be used in various contexts, such as escaping danger, running away from a person or a situation, or avoiding something unpleasant.

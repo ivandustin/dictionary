@@ -1,0 +1,18 @@
+Etymology: The word "תגבל" (tagbel) is a Hebrew verb that comes from the root גבל (g.b.l), which means "to limit" or "to restrict."
+
+Grammar: "תגבל" is a verb in the Hebrew language. It is conjugated in the present tense as follows:
+- Singular:
+  - אני תוגבל (ani togbel) - I limit
+  - אתה תוגבל (atah togbel) - You limit (masculine)
+  - את תוגבלי (at togbeli) - You limit (feminine)
+  - הוא תוגבל (hu togbel) - He limits
+  - היא תוגבלת (hi togbelet) - She limits
+  - זה תוגבל (ze togbel) - It limits
+- Plural:
+  - אנחנו תוגבלים (anachnu togbelim) - We limit
+  - אתם תוגבלים (atem togbelim) - You limit (masculine plural)
+  - אתן תוגבלות (aten togbelot) - You limit (feminine plural)
+  - הם תוגבלים (hem togbelim) - They limit (masculine)
+  - הן תוגבלות (hen togbelot) - They limit (feminine)
+
+Description: "תגבל" means "to limit" or "to restrict" in Hebrew. It is used to describe the act of setting boundaries or confining something within certain limits.
